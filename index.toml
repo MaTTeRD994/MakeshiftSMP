@@ -9,1991 +9,1991 @@ file = "README.md"
 hash = "1295379113a0dafd2f07df99756c3ff2ce837fea3ee84300f78b788b29968fe0"
 
 [[files]]
-file = "config/config/Advancedperipherals/general.toml"
+file = "config/Advancedperipherals/general.toml"
 hash = "d27021a1aa4dfd8f8ceb0d8d00d275b5291c44596cc5211f133f888fada3ab57"
 
 [[files]]
-file = "config/config/Advancedperipherals/metaphysics.toml"
+file = "config/Advancedperipherals/metaphysics.toml"
 hash = "f815a0f04a93fad5cacca28e5db7fae1d1b006a160ff44666a854cf878e48df7"
 
 [[files]]
-file = "config/config/Advancedperipherals/peripherals.toml"
+file = "config/Advancedperipherals/peripherals.toml"
 hash = "5e8c8736b382b56ec3dd628983bc9ae7252032c41d4b34c3b8dcb7ae2a23072a"
 
 [[files]]
-file = "config/config/Advancedperipherals/world.toml"
+file = "config/Advancedperipherals/world.toml"
 hash = "c75081ad02045396929430ab2800eb4ce2a5ae61f1675a132d6618ef5af8f26e"
 
 [[files]]
-file = "config/config/DistantHorizons.toml"
+file = "config/DistantHorizons.toml"
 hash = "168b01b225496fb86ac8ef4540d6d859ad3f89c3a866774a9c9e728fe9922129"
 
 [[files]]
-file = "config/config/MouseTweaks.cfg"
+file = "config/MouseTweaks.cfg"
 hash = "4069ce1a439d8c37453c1b1e9f2037e0942674c7e48723a39b37eab245792ad4"
 
 [[files]]
-file = "config/config/NoChatReports/NCR-Client.json"
+file = "config/NoChatReports/NCR-Client.json"
 hash = "edfe78d985fe67dce28104f3d87673e94c89134144451c291ecedcd2e2c3b480"
 
 [[files]]
-file = "config/config/NoChatReports/NCR-Common.json"
+file = "config/NoChatReports/NCR-Common.json"
 hash = "0eaad2630bd70ade719f7810e805810ada25379269ea194e43d3eea30c51dec0"
 
 [[files]]
-file = "config/config/NoChatReports/NCR-Encryption.json"
+file = "config/NoChatReports/NCR-Encryption.json"
 hash = "0f61ac30bfc78653a30d715f793e30a6a43d6715106706487efd0aea5d43a84c"
 
 [[files]]
-file = "config/config/NoChatReports/NCR-ServerPreferences.json"
+file = "config/NoChatReports/NCR-ServerPreferences.json"
 hash = "df32843b853e0a493ef3a9b1e39276818294353fbb0d833f7f61e77da0f5bca1"
 
 [[files]]
-file = "config/config/NoChatReports/README.md"
+file = "config/NoChatReports/README.md"
 hash = "c52b76ccad2bd1063a22c7f6bb9e7c5db6b00fb53a6fd605585972ee0e5fc01f"
 
 [[files]]
-file = "config/config/advancedrgblamps-common.toml"
+file = "config/advancedrgblamps-common.toml"
 hash = "e27d2ea56d77859edb6a28351b45d4f6f129c2d9aca67a41514ae904906376d3"
 
 [[files]]
-file = "config/config/ambientsounds-client.json"
+file = "config/ambientsounds-client.json"
 hash = "65fb836f0125d84379a955cdb9d3d6e1effbb7a979215eacec3af0251369e76f"
 
 [[files]]
-file = "config/config/amendments-client.toml"
+file = "config/amendments-client.toml"
 hash = "9564cdf09d88dbf69379ac8f73a0e013cd77e4b2255c1be84b49786c1126c3e8"
 
 [[files]]
-file = "config/config/amendments-common.toml"
+file = "config/amendments-common.toml"
 hash = "5ac26e5f8f6e5f3e1fd20cfccc7fb6a0ffaa8df7199bae7cb2f7a5810c80a9d5"
 
 [[files]]
-file = "config/config/appleskin-client.toml"
+file = "config/appleskin-client.toml"
 hash = "7127a276c7305371397053cd8d0833e6825c828850626e4067b9fed1430ed217"
 
 [[files]]
-file = "config/config/armor-hider-presets.json"
+file = "config/armor-hider-presets.json"
 hash = "6709e8f104c3f527cabbac4c9a8247143db195fd0c2fafccb8093e4cf2d3197a"
 
 [[files]]
-file = "config/config/armor-hider.json"
+file = "config/armor-hider.json"
 hash = "87d9b9dffea9b8468861b3086f3455f1a18b82f6f41cc37d98e0357dab144216"
 
 [[files]]
-file = "config/config/armor-hud-config.json"
+file = "config/armor-hud-config.json"
 hash = "e6babbed481163e97cd1aa499d60989568bac4c6c6f7e888f57dd5e8a2261831"
 
 [[files]]
-file = "config/config/armorposer-common.toml"
+file = "config/armorposer-common.toml"
 hash = "6572e15743b7f2a39ac8c66c759268d7824d53d0e617f27d581d4dab4b3940ad"
 
 [[files]]
-file = "config/config/armorstatues-client.toml"
+file = "config/armorstatues-client.toml"
 hash = "beba9b2bec8a2df054d8035dd698aad5587f9832247cfd921724254ad678ecc3"
 
 [[files]]
-file = "config/config/audioplayer/audioplayer-server.properties"
+file = "config/audioplayer/audioplayer-server.properties"
 hash = "1e611c9173c793c6434b998bcaaf40b0f3a0131ab3619292c1a4384594db4121"
 
 [[files]]
-file = "config/config/axiom/.axiom.json.backup"
+file = "config/axiom/.axiom.json.backup"
 hash = "3f182320a38aad09ed903e0dc8ec0f664c3753dc66c1cd152887d927f507e683"
 
 [[files]]
-file = "config/config/axiom/.license"
+file = "config/axiom/.license"
 hash = "d59e4091c5d06779542805d022dd202de5865cd3a1fe45d5920cc2378baa8dfb"
 
 [[files]]
-file = "config/config/axiom/axiom.json"
+file = "config/axiom/axiom.json"
 hash = "3f182320a38aad09ed903e0dc8ec0f664c3753dc66c1cd152887d927f507e683"
 
 [[files]]
-file = "config/config/axiom/blueprints/.axiom_blueprint_ordering"
+file = "config/axiom/blueprints/.axiom_blueprint_ordering"
 hash = "0003dd406ae8e4bf231e863945db932386684ed2e9d19790dfde3f3904d7b54c"
 
 [[files]]
-file = "config/config/axiom/blueprints/Foliage Tree.bp"
+file = "config/axiom/blueprints/Foliage Tree.bp"
 hash = "f69adda53429fee72351d40aac362e708fb9f8348d9907bb647740b029be9b3c"
 
 [[files]]
-file = "config/config/axiom/blueprints/bigpine.bp"
+file = "config/axiom/blueprints/bigpine.bp"
 hash = "566f86f4b4522739ccf1f01c056f60e0d8fff9de9b32f91cf46f45fa64075067"
 
 [[files]]
-file = "config/config/axiom/blueprints/bigpine01.csv"
+file = "config/axiom/blueprints/bigpine01.csv"
 hash = "032d7edb6626e6bad51d0cce6341e81d4cc9f9784e82c908d60ebcfd37813873"
 
 [[files]]
-file = "config/config/axiom/blueprints/birchlarge1.bp"
+file = "config/axiom/blueprints/birchlarge1.bp"
 hash = "8a00fcf2564d8eca94724b088dac23b7eb7d3304f1fd77a1e27490c0aa3b1afc"
 
 [[files]]
-file = "config/config/axiom/blueprints/birchlarge2.bp"
+file = "config/axiom/blueprints/birchlarge2.bp"
 hash = "a73117166a4a46dd7e7b2c876a9d9d149904bb5369744d779c23f01e97351a7b"
 
 [[files]]
-file = "config/config/axiom/blueprints/birchmedium1.bp"
+file = "config/axiom/blueprints/birchmedium1.bp"
 hash = "3527b85b402cccd2625cd3987df5443ca60991be9952d60b08a9e888fd2e126b"
 
 [[files]]
-file = "config/config/axiom/blueprints/birchmedium2.bp"
+file = "config/axiom/blueprints/birchmedium2.bp"
 hash = "645f2f9e33bbd6d141f8d448daba1740f2e97744ce587111031239f61a44d328"
 
 [[files]]
-file = "config/config/axiom/blueprints/birchsmall1.bp"
+file = "config/axiom/blueprints/birchsmall1.bp"
 hash = "47f5f0f1b70a632ea6af7be9c88775774b602898b053f1ac276e403cd6fb0802"
 
 [[files]]
-file = "config/config/axiom/blueprints/birchsmall2.bp"
+file = "config/axiom/blueprints/birchsmall2.bp"
 hash = "0d6c639729a9d42003701c4b51f0367434ea3fc5de9e99e7b56ffd7c0e8d631c"
 
 [[files]]
-file = "config/config/axiom/blueprints/blocks.csv"
+file = "config/axiom/blueprints/blocks.csv"
 hash = "bc37a66892d83991095b8809b181e37bf8b07b700f45976d3b0f3d4a267f5dc6"
 
 [[files]]
-file = "config/config/axiom/blueprints/micropine02.bp"
+file = "config/axiom/blueprints/micropine02.bp"
 hash = "dd5abf6a3281574a22bfdb450702f40b5dcec5da5824f0b510e2945d1767da84"
 
 [[files]]
-file = "config/config/axiom/blueprints/middlepine.bp"
+file = "config/axiom/blueprints/middlepine.bp"
 hash = "e379d6e99f87a92441031fd214865d4e71e770ff59b61670a24a16fcec064b2c"
 
 [[files]]
-file = "config/config/axiom/blueprints/oaklarge1.bp"
+file = "config/axiom/blueprints/oaklarge1.bp"
 hash = "65216d34f42a38eb0e18acd9febc2931551452d29ef8a61526bf4a07d04a4642"
 
 [[files]]
-file = "config/config/axiom/blueprints/oaklarge2.bp"
+file = "config/axiom/blueprints/oaklarge2.bp"
 hash = "35955446a6775170834be3f23fe3c9e340024303eab476f2cad7923a126d8ed4"
 
 [[files]]
-file = "config/config/axiom/blueprints/oakmedium1.bp"
+file = "config/axiom/blueprints/oakmedium1.bp"
 hash = "ea49bd0ac3e6a75d986565f40030b43c561b23f7e027cf1aa5a5578ac7deff8c"
 
 [[files]]
-file = "config/config/axiom/blueprints/oakmedium2.bp"
+file = "config/axiom/blueprints/oakmedium2.bp"
 hash = "3d4424b8d9694b4fdee1da2b52b701ed7c2ce56eedb5e36b14e75b5a029d9fc5"
 
 [[files]]
-file = "config/config/axiom/blueprints/oaksmall1.bp"
+file = "config/axiom/blueprints/oaksmall1.bp"
 hash = "3e72ca12eb1583bb0c3e2e59a977e9515751503d3ec70298ac2ed7622780a749"
 
 [[files]]
-file = "config/config/axiom/blueprints/oaksmall2.bp"
+file = "config/axiom/blueprints/oaksmall2.bp"
 hash = "3b6c53cef345e009dc5e269bcafdbb611ea68a913061b21d5fbd03df9b05aa01"
 
 [[files]]
-file = "config/config/axiom/blueprints/rftTrees.schem"
+file = "config/axiom/blueprints/rftTrees.schem"
 hash = "a113dfe50a6507b5a56d7c3b8760b3eb2c38f3450df8ec124d0836e94245944a"
 
 [[files]]
-file = "config/config/axiom/blueprints/small pine01.csv"
+file = "config/axiom/blueprints/small pine01.csv"
 hash = "ab9b0f7ab0f8ee406c7753c91e19e1da2fab095c8ca4ac0916ef638bc1377b04"
 
 [[files]]
-file = "config/config/axiom/blueprints/small pine02.csv"
+file = "config/axiom/blueprints/small pine02.csv"
 hash = "fe90a3c2dd3ea5ec69aed217009ba3c8246188ef267bc7b071ce9b6aa71c590c"
 
 [[files]]
-file = "config/config/axiom/blueprints/smalloak1.bp"
+file = "config/axiom/blueprints/smalloak1.bp"
 hash = "df7c3a5911c8e8c41864692128ad8784e1495a09970a9b96365f23497067a740"
 
 [[files]]
-file = "config/config/axiom/blueprints/smallpine.bp"
+file = "config/axiom/blueprints/smallpine.bp"
 hash = "5c2ae5e3dc620b3a561a21386bc2c98cfe6785d30a8fcc2fca8e4624ecc8f062"
 
 [[files]]
-file = "config/config/axiom/blueprints/smallpine01.bp"
+file = "config/axiom/blueprints/smallpine01.bp"
 hash = "4cfd5aa052c742dcafadb760be0f1d27c9c2608324462acd9de4164786f70479"
 
 [[files]]
-file = "config/config/axiom/blueprints/smallpine03.bp"
+file = "config/axiom/blueprints/smallpine03.bp"
 hash = "2f964e91d7d55c668297860cc1346c99f909eb4c8eb1210d3a223a10842c1d9e"
 
 [[files]]
-file = "config/config/axiom/blueprints/smallpinw02.bp"
+file = "config/axiom/blueprints/smallpinw02.bp"
 hash = "1b974e5d379a5f7b371034705c5471545844753504e3007a39b92aac9c719031"
 
 [[files]]
-file = "config/config/axiom/blueprints/sprucelarge1.bp"
+file = "config/axiom/blueprints/sprucelarge1.bp"
 hash = "cea62a9bd24e8782841cd33bb63cf3b21d563611b92d5677df558613af3ffd86"
 
 [[files]]
-file = "config/config/axiom/blueprints/sprucelarge2.bp"
+file = "config/axiom/blueprints/sprucelarge2.bp"
 hash = "7840efec73d54034df7240216c8f4a65b29d7e0583ceb525276eef1e810ebe71"
 
 [[files]]
-file = "config/config/axiom/blueprints/sprucemedium1.bp"
+file = "config/axiom/blueprints/sprucemedium1.bp"
 hash = "a5f80b849671c1a2a350163607927a21ce48a7dfdf39200f322a38313ea152de"
 
 [[files]]
-file = "config/config/axiom/blueprints/sprucemedium2.bp"
+file = "config/axiom/blueprints/sprucemedium2.bp"
 hash = "202cb9a92b1b963f4c44e20d5ce85550a7787fdccb17e017983231d0f362242b"
 
 [[files]]
-file = "config/config/axiom/blueprints/sprucesmall1.bp"
+file = "config/axiom/blueprints/sprucesmall1.bp"
 hash = "fbbcb952c58918e2e9a0d144705da79691d97efa38c62db255b3c5b40ca3b183"
 
 [[files]]
-file = "config/config/axiom/blueprints/sprucesmall2.bp"
+file = "config/axiom/blueprints/sprucesmall2.bp"
 hash = "5d1ce6c218a72752516171fbd3bdf4168b1d6d0fb734c8cd44fffe948abddf11"
 
 [[files]]
-file = "config/config/axiom/blueprints/xc.bp"
+file = "config/axiom/blueprints/xc.bp"
 hash = "5a8e3c415d273eab22e953bc73bcd36a21123fe0e438f12070e7002221ac84e0"
 
 [[files]]
-file = "config/config/axiom/history/MultiplayerlocalE665ae94aOverworld/entry0.hist"
+file = "config/axiom/history/MultiplayerlocalE665ae94aOverworld/entry0.hist"
 hash = "1b24f1d159d8092a397297bdbf12ac61c464177929c2f303ea14b5292a518843"
 
 [[files]]
-file = "config/config/axiom/history/MultiplayerlocalE665ae94aOverworld/position"
+file = "config/axiom/history/MultiplayerlocalE665ae94aOverworld/position"
 hash = "cd2662154e6d76b2b2b92e70c0cac3ccf534f9b74eb5b89819ec509083d00a50"
 
 [[files]]
-file = "config/config/axiom/history/MultiplayerlocalE92b88a03Overworld/entry0.hist"
+file = "config/axiom/history/MultiplayerlocalE92b88a03Overworld/entry0.hist"
 hash = "9f3f211fa61256f766d75a82336fb68f8208c42650ff8e64694cbadcd43b464a"
 
 [[files]]
-file = "config/config/axiom/history/MultiplayerlocalE92b88a03Overworld/position"
+file = "config/axiom/history/MultiplayerlocalE92b88a03Overworld/position"
 hash = "cd2662154e6d76b2b2b92e70c0cac3ccf534f9b74eb5b89819ec509083d00a50"
 
 [[files]]
-file = "config/config/axiom/history/SingleplayerCreate_planningOverworld/chunk0.hist"
+file = "config/axiom/history/SingleplayerCreate_planningOverworld/chunk0.hist"
 hash = "36a5d2ad4c2fa6ceab33c4fff819e8f506cb3aeee5be84c564e7969af30dc189"
 
 [[files]]
-file = "config/config/axiom/history/SingleplayerCreate_planningOverworld/chunk1.hist"
+file = "config/axiom/history/SingleplayerCreate_planningOverworld/chunk1.hist"
 hash = "7c5159e95469ddd97f7c6271b063f9fb8d5eb9fc00178c400ba77250908d253c"
 
 [[files]]
-file = "config/config/axiom/history/SingleplayerCreate_planningOverworld/chunk2.hist"
+file = "config/axiom/history/SingleplayerCreate_planningOverworld/chunk2.hist"
 hash = "cee5e3fc33086f1def3530502b643d55488dcf544d9613a9317a6d1a934c28dd"
 
 [[files]]
-file = "config/config/axiom/history/SingleplayerCreate_planningOverworld/chunk3.hist"
+file = "config/axiom/history/SingleplayerCreate_planningOverworld/chunk3.hist"
 hash = "d4a3e3202f8f2bb60f54e0dab70bb0f5da89060f85765fda153a517086c5ecb2"
 
 [[files]]
-file = "config/config/axiom/history/SingleplayerCreate_planningOverworld/chunk4.hist"
+file = "config/axiom/history/SingleplayerCreate_planningOverworld/chunk4.hist"
 hash = "05ce51671bf748331cd19329b48d3962226e9a7eba02f73aee822756e14b425d"
 
 [[files]]
-file = "config/config/axiom/history/SingleplayerCreate_planningOverworld/chunk5.hist"
+file = "config/axiom/history/SingleplayerCreate_planningOverworld/chunk5.hist"
 hash = "f0af66561488c1840317ea9e85261ef6440fd71df3e93527ade73f463503c76c"
 
 [[files]]
-file = "config/config/axiom/history/SingleplayerCreate_planningOverworld/chunk6.hist"
+file = "config/axiom/history/SingleplayerCreate_planningOverworld/chunk6.hist"
 hash = "0f11bda5b3bd3e6816339df6e74e08a8a040cf26a5c1f69b3b56eeb094d87701"
 
 [[files]]
-file = "config/config/axiom/history/SingleplayerCreate_planningOverworld/chunk7.hist"
+file = "config/axiom/history/SingleplayerCreate_planningOverworld/chunk7.hist"
 hash = "f8814da2f934565e1856e7dec53ac45dab568f3198d7a41241d3db18e3dbb898"
 
 [[files]]
-file = "config/config/axiom/history/SingleplayerCreate_planningOverworld/chunk8.hist"
+file = "config/axiom/history/SingleplayerCreate_planningOverworld/chunk8.hist"
 hash = "13652ceeb10c098fb79ad8737dcf375796a04632fe0ae219713da094a1b3618a"
 
 [[files]]
-file = "config/config/axiom/history/SingleplayerCreate_planningOverworld/entry144.hist"
+file = "config/axiom/history/SingleplayerCreate_planningOverworld/entry144.hist"
 hash = "a9be75b6ad4ef9131f9b616caf5fc0343176da651b16ddea0aedae9060ad5142"
 
 [[files]]
-file = "config/config/axiom/history/SingleplayerCreate_planningOverworld/position"
+file = "config/axiom/history/SingleplayerCreate_planningOverworld/position"
 hash = "a6015790534e68fc66b9b985f1ca2c08b21931720540914e28132e4f858a30f7"
 
 [[files]]
-file = "config/config/axiom/history/SingleplayerCrushing worldOverworld/chunk0.hist"
+file = "config/axiom/history/SingleplayerCrushing worldOverworld/chunk0.hist"
 hash = "75e96b43bb02b0b9d733ea8581857841d1c18232956053dbef3ffd03123ae85c"
 
 [[files]]
-file = "config/config/axiom/history/SingleplayerCrushing worldOverworld/chunk1.hist"
+file = "config/axiom/history/SingleplayerCrushing worldOverworld/chunk1.hist"
 hash = "85749c2fc8536d49f4b0be8b9b4d56a40e387da2dffad24fef576a98d8e234d0"
 
 [[files]]
-file = "config/config/axiom/history/SingleplayerCrushing worldOverworld/chunk10.hist"
+file = "config/axiom/history/SingleplayerCrushing worldOverworld/chunk10.hist"
 hash = "fa7a0468fdfb0a9fc1f0bc05cc4743b918e9134a8888ad4986cc0a8d1207f76a"
 
 [[files]]
-file = "config/config/axiom/history/SingleplayerCrushing worldOverworld/chunk11.hist"
+file = "config/axiom/history/SingleplayerCrushing worldOverworld/chunk11.hist"
 hash = "253f15451c9482c0ae40ae46ce43afb3bcc2d710e898c662b92c65ca093ca9e8"
 
 [[files]]
-file = "config/config/axiom/history/SingleplayerCrushing worldOverworld/chunk12.hist"
+file = "config/axiom/history/SingleplayerCrushing worldOverworld/chunk12.hist"
 hash = "915bf1a5fa330f175b56b8c0968364226febbb4b80ce7440789c391baee97410"
 
 [[files]]
-file = "config/config/axiom/history/SingleplayerCrushing worldOverworld/chunk13.hist"
+file = "config/axiom/history/SingleplayerCrushing worldOverworld/chunk13.hist"
 hash = "1d9adb68364feffed272673dc1c5b5cad7528323e8f92703ba15a4256eb53ddc"
 
 [[files]]
-file = "config/config/axiom/history/SingleplayerCrushing worldOverworld/chunk14.hist"
+file = "config/axiom/history/SingleplayerCrushing worldOverworld/chunk14.hist"
 hash = "56c8831e8a2270988e7e39f6833ac67c6d7b8b66f84f4206eeb9661cd3814717"
 
 [[files]]
-file = "config/config/axiom/history/SingleplayerCrushing worldOverworld/chunk15.hist"
+file = "config/axiom/history/SingleplayerCrushing worldOverworld/chunk15.hist"
 hash = "15b130dd9542a28b35c4e5e132b843b4c9115775da9431ead2dc0863bab48675"
 
 [[files]]
-file = "config/config/axiom/history/SingleplayerCrushing worldOverworld/chunk16.hist"
+file = "config/axiom/history/SingleplayerCrushing worldOverworld/chunk16.hist"
 hash = "239811f5ee42a2718b838d6cedf232dcdca535c1c7b6c169301e0d368d1fcdfa"
 
 [[files]]
-file = "config/config/axiom/history/SingleplayerCrushing worldOverworld/chunk17.hist"
+file = "config/axiom/history/SingleplayerCrushing worldOverworld/chunk17.hist"
 hash = "51500bb30fb9f7c19170ed37287d42af032566e75303a151c8004df09d16c366"
 
 [[files]]
-file = "config/config/axiom/history/SingleplayerCrushing worldOverworld/chunk18.hist"
+file = "config/axiom/history/SingleplayerCrushing worldOverworld/chunk18.hist"
 hash = "edb43176e7cd6e42a71d81e27e351f8489abfea56fa2b36fea7e3b910b227016"
 
 [[files]]
-file = "config/config/axiom/history/SingleplayerCrushing worldOverworld/chunk19.hist"
+file = "config/axiom/history/SingleplayerCrushing worldOverworld/chunk19.hist"
 hash = "d37dee7cf8021ef13917766e5883df3fc1075f1a643d46131a46848840d99cad"
 
 [[files]]
-file = "config/config/axiom/history/SingleplayerCrushing worldOverworld/chunk2.hist"
+file = "config/axiom/history/SingleplayerCrushing worldOverworld/chunk2.hist"
 hash = "e5bb5a20d6fd1a8497b9a0c2ae4f1d801c9f649132ad83f0abf71c43d558c8c6"
 
 [[files]]
-file = "config/config/axiom/history/SingleplayerCrushing worldOverworld/chunk20.hist"
+file = "config/axiom/history/SingleplayerCrushing worldOverworld/chunk20.hist"
 hash = "5bcb3861b74f6206eebdd37e7a746497298ec8c52de2f4dcf4c18064bc7fc98d"
 
 [[files]]
-file = "config/config/axiom/history/SingleplayerCrushing worldOverworld/chunk21.hist"
+file = "config/axiom/history/SingleplayerCrushing worldOverworld/chunk21.hist"
 hash = "d14b766d97e16fe949b30e97cbb84e40d4708fdef67f888e9e4467d83a0aa826"
 
 [[files]]
-file = "config/config/axiom/history/SingleplayerCrushing worldOverworld/chunk22.hist"
+file = "config/axiom/history/SingleplayerCrushing worldOverworld/chunk22.hist"
 hash = "359b82260484247ef0e10a624d5e5af1734d197903593ba5c6825d45d17505af"
 
 [[files]]
-file = "config/config/axiom/history/SingleplayerCrushing worldOverworld/chunk23.hist"
+file = "config/axiom/history/SingleplayerCrushing worldOverworld/chunk23.hist"
 hash = "6fe3dcc9fee97264dddc4bebec0b5e245b333e970add4a4eb92c931dbb3304f9"
 
 [[files]]
-file = "config/config/axiom/history/SingleplayerCrushing worldOverworld/chunk24.hist"
+file = "config/axiom/history/SingleplayerCrushing worldOverworld/chunk24.hist"
 hash = "e4619267cfbb6d2cbf3c1fed92f0076e1dc7bec1663e1cb905e974c79000fde2"
 
 [[files]]
-file = "config/config/axiom/history/SingleplayerCrushing worldOverworld/chunk25.hist"
+file = "config/axiom/history/SingleplayerCrushing worldOverworld/chunk25.hist"
 hash = "ead8c11a03076d35a230bdf0c78248f1d471879956743ab93b88aff1a91e200a"
 
 [[files]]
-file = "config/config/axiom/history/SingleplayerCrushing worldOverworld/chunk26.hist"
+file = "config/axiom/history/SingleplayerCrushing worldOverworld/chunk26.hist"
 hash = "c1c9a9c33a12d114758edb76de43c99acbab986a90be77fe511decdd0894f8fd"
 
 [[files]]
-file = "config/config/axiom/history/SingleplayerCrushing worldOverworld/chunk27.hist"
+file = "config/axiom/history/SingleplayerCrushing worldOverworld/chunk27.hist"
 hash = "730cc340fbab2f32d5734cc25971057bfe405c51305a1a812fb60f82d2e380a7"
 
 [[files]]
-file = "config/config/axiom/history/SingleplayerCrushing worldOverworld/chunk28.hist"
+file = "config/axiom/history/SingleplayerCrushing worldOverworld/chunk28.hist"
 hash = "9f9d4060eb7061f85723e1e470dd0d70caa9af89513d546450c8e6273fae5945"
 
 [[files]]
-file = "config/config/axiom/history/SingleplayerCrushing worldOverworld/chunk29.hist"
+file = "config/axiom/history/SingleplayerCrushing worldOverworld/chunk29.hist"
 hash = "39e59392ab7c0378c50a339b74b2b4e9881048a18f5f9d95f5e786e695f4cd34"
 
 [[files]]
-file = "config/config/axiom/history/SingleplayerCrushing worldOverworld/chunk3.hist"
+file = "config/axiom/history/SingleplayerCrushing worldOverworld/chunk3.hist"
 hash = "16af5202953e6cea5752bb7258025d025e4ea40a62818bb79ad56f610158912b"
 
 [[files]]
-file = "config/config/axiom/history/SingleplayerCrushing worldOverworld/chunk30.hist"
+file = "config/axiom/history/SingleplayerCrushing worldOverworld/chunk30.hist"
 hash = "1a5e2128dbc8375d242e6798a49f38796d4885e1a14f1bd49aeb10acdd69047a"
 
 [[files]]
-file = "config/config/axiom/history/SingleplayerCrushing worldOverworld/chunk31.hist"
+file = "config/axiom/history/SingleplayerCrushing worldOverworld/chunk31.hist"
 hash = "ea075a349105432e1134d90b9c30067b808cdb96e02f665708f44e613ed32e40"
 
 [[files]]
-file = "config/config/axiom/history/SingleplayerCrushing worldOverworld/chunk32.hist"
+file = "config/axiom/history/SingleplayerCrushing worldOverworld/chunk32.hist"
 hash = "8b459e09a5ed201285195d4794a319bc1991a91a7bdea542074c90b80c89bf7f"
 
 [[files]]
-file = "config/config/axiom/history/SingleplayerCrushing worldOverworld/chunk33.hist"
+file = "config/axiom/history/SingleplayerCrushing worldOverworld/chunk33.hist"
 hash = "c1d9c621b136deb759b128b6f349ce219a7cc4a8a8a029423cccb737c0e649c0"
 
 [[files]]
-file = "config/config/axiom/history/SingleplayerCrushing worldOverworld/chunk34.hist"
+file = "config/axiom/history/SingleplayerCrushing worldOverworld/chunk34.hist"
 hash = "93aa14f27cd314c38dd5086354925890598d1bc510710609ebc20772a2f0969e"
 
 [[files]]
-file = "config/config/axiom/history/SingleplayerCrushing worldOverworld/chunk35.hist"
+file = "config/axiom/history/SingleplayerCrushing worldOverworld/chunk35.hist"
 hash = "819ead33636757e3f0a1cb6fa8f66aecbe054d4a7ab7788fb24f36de7b61f5a0"
 
 [[files]]
-file = "config/config/axiom/history/SingleplayerCrushing worldOverworld/chunk36.hist"
+file = "config/axiom/history/SingleplayerCrushing worldOverworld/chunk36.hist"
 hash = "5094ce5beb16eeb33ec6deae89c3f26167f5c0fd1ebd438de74617b08baf6f7e"
 
 [[files]]
-file = "config/config/axiom/history/SingleplayerCrushing worldOverworld/chunk37.hist"
+file = "config/axiom/history/SingleplayerCrushing worldOverworld/chunk37.hist"
 hash = "e19ebed13d0bd75ffcb594b8481043a6f4728578fc8097dec69f1e6d5c3479e3"
 
 [[files]]
-file = "config/config/axiom/history/SingleplayerCrushing worldOverworld/chunk38.hist"
+file = "config/axiom/history/SingleplayerCrushing worldOverworld/chunk38.hist"
 hash = "b52f5e1a8d2000d5ae2f892421cbf548099ae1244d8082b767bb8c758870e4ed"
 
 [[files]]
-file = "config/config/axiom/history/SingleplayerCrushing worldOverworld/chunk39.hist"
+file = "config/axiom/history/SingleplayerCrushing worldOverworld/chunk39.hist"
 hash = "2622363851a6878499578ae4ef9f44d0e3491b8afaa82ef1f8b69b4e70c93269"
 
 [[files]]
-file = "config/config/axiom/history/SingleplayerCrushing worldOverworld/chunk4.hist"
+file = "config/axiom/history/SingleplayerCrushing worldOverworld/chunk4.hist"
 hash = "c6d5653cbf37bde4724b883cf867b9eb5f8c32233ecd70d35815d570c6135b00"
 
 [[files]]
-file = "config/config/axiom/history/SingleplayerCrushing worldOverworld/chunk40.hist"
+file = "config/axiom/history/SingleplayerCrushing worldOverworld/chunk40.hist"
 hash = "01d41eda1599fc9ed27cbf5b96f14cb523fe8852c2be8cfac2eea448541bfa60"
 
 [[files]]
-file = "config/config/axiom/history/SingleplayerCrushing worldOverworld/chunk5.hist"
+file = "config/axiom/history/SingleplayerCrushing worldOverworld/chunk5.hist"
 hash = "88496a298665417d66a4075705dde7f61a842a6e05bdbcc7e7d462a232893b61"
 
 [[files]]
-file = "config/config/axiom/history/SingleplayerCrushing worldOverworld/chunk6.hist"
+file = "config/axiom/history/SingleplayerCrushing worldOverworld/chunk6.hist"
 hash = "4adf4cd9343e411293e031635bb762b57733dc84b827af0d2a9952c12967407e"
 
 [[files]]
-file = "config/config/axiom/history/SingleplayerCrushing worldOverworld/chunk7.hist"
+file = "config/axiom/history/SingleplayerCrushing worldOverworld/chunk7.hist"
 hash = "c68674b4e02d821330dc12260dfa4c550f1c2e0ea4694dd108bb971077507da8"
 
 [[files]]
-file = "config/config/axiom/history/SingleplayerCrushing worldOverworld/chunk8.hist"
+file = "config/axiom/history/SingleplayerCrushing worldOverworld/chunk8.hist"
 hash = "be5308f10b656fe524ebfd2d01315f9b2a9310ec6db6f780f7774bda42c22408"
 
 [[files]]
-file = "config/config/axiom/history/SingleplayerCrushing worldOverworld/chunk9.hist"
+file = "config/axiom/history/SingleplayerCrushing worldOverworld/chunk9.hist"
 hash = "6d20e78fd70b799adfd644e91a3371699cc50e3f1efcc5453fe69a3d33970a9b"
 
 [[files]]
-file = "config/config/axiom/history/SingleplayerCrushing worldOverworld/entry656.hist"
+file = "config/axiom/history/SingleplayerCrushing worldOverworld/entry656.hist"
 hash = "ca59e28049bc7a73faa429f649ee055ca4e78250ae2327cf92a10061f839a6e3"
 
 [[files]]
-file = "config/config/axiom/history/SingleplayerCrushing worldOverworld/entry657.hist"
+file = "config/axiom/history/SingleplayerCrushing worldOverworld/entry657.hist"
 hash = "d0af9d7b3a33d108ba8af93a30e2dba35986b1721a88ea838ccb92b878ab7c7d"
 
 [[files]]
-file = "config/config/axiom/history/SingleplayerCrushing worldOverworld/entry658.hist"
+file = "config/axiom/history/SingleplayerCrushing worldOverworld/entry658.hist"
 hash = "fa47e08506655ff4ef43e943467202d781b65e65d1b32a8120a58455fe355aca"
 
 [[files]]
-file = "config/config/axiom/history/SingleplayerCrushing worldOverworld/entry659.hist"
+file = "config/axiom/history/SingleplayerCrushing worldOverworld/entry659.hist"
 hash = "d711f406c51b3719332f7a6bd28640ed3343119c72a71ece780c1529a630e8e5"
 
 [[files]]
-file = "config/config/axiom/history/SingleplayerCrushing worldOverworld/entry660.hist"
+file = "config/axiom/history/SingleplayerCrushing worldOverworld/entry660.hist"
 hash = "e10654a97746881cd6417a731bcc3b300e3a726e31077cf9e9691ddaa82df4c9"
 
 [[files]]
-file = "config/config/axiom/history/SingleplayerCrushing worldOverworld/entry661.hist"
+file = "config/axiom/history/SingleplayerCrushing worldOverworld/entry661.hist"
 hash = "945d4ea40e91848c5478a45d672206c48a923ce173497913cbf9ba8e6d3f134d"
 
 [[files]]
-file = "config/config/axiom/history/SingleplayerCrushing worldOverworld/entry662.hist"
+file = "config/axiom/history/SingleplayerCrushing worldOverworld/entry662.hist"
 hash = "db797245daee763ad69d947df526d245854a228628edb0f9ac895da6bbaf92ca"
 
 [[files]]
-file = "config/config/axiom/history/SingleplayerCrushing worldOverworld/entry663.hist"
+file = "config/axiom/history/SingleplayerCrushing worldOverworld/entry663.hist"
 hash = "66f0ebb0e6fc37b3c6ea96e131b9ed0bd95e315780718ec352ebe98d06f8916b"
 
 [[files]]
-file = "config/config/axiom/history/SingleplayerCrushing worldOverworld/entry664.hist"
+file = "config/axiom/history/SingleplayerCrushing worldOverworld/entry664.hist"
 hash = "d944a220804eaafe8da74641a5b58b4f15817dd0973c88ef7c4e6fac6ec2d5c3"
 
 [[files]]
-file = "config/config/axiom/history/SingleplayerCrushing worldOverworld/entry665.hist"
+file = "config/axiom/history/SingleplayerCrushing worldOverworld/entry665.hist"
 hash = "bff7725e8558417e9d13c4e90534f9513b5515c84f4c8a7429fc20a933c92165"
 
 [[files]]
-file = "config/config/axiom/history/SingleplayerCrushing worldOverworld/entry666.hist"
+file = "config/axiom/history/SingleplayerCrushing worldOverworld/entry666.hist"
 hash = "eb60ef3a85a2079652a4a939158afab97485d64ab1aabb84f10d0e60b285e1e5"
 
 [[files]]
-file = "config/config/axiom/history/SingleplayerCrushing worldOverworld/entry667.hist"
+file = "config/axiom/history/SingleplayerCrushing worldOverworld/entry667.hist"
 hash = "e3ca5572112528c4d0a0386ab7216c705c3efb680e96b81b69f9f50445ff61c3"
 
 [[files]]
-file = "config/config/axiom/history/SingleplayerCrushing worldOverworld/entry668.hist"
+file = "config/axiom/history/SingleplayerCrushing worldOverworld/entry668.hist"
 hash = "0d02d7771cf927dad0622b297695425cfd533afaa4f2d7bb93b8b94cccdbee17"
 
 [[files]]
-file = "config/config/axiom/history/SingleplayerCrushing worldOverworld/entry669.hist"
+file = "config/axiom/history/SingleplayerCrushing worldOverworld/entry669.hist"
 hash = "495ae6012a90522b439d0d4b196d8ab046e7ef0913255f9231361027c51b3989"
 
 [[files]]
-file = "config/config/axiom/history/SingleplayerCrushing worldOverworld/position"
+file = "config/axiom/history/SingleplayerCrushing worldOverworld/position"
 hash = "ad2ff235a401a34fe3426682a714b10655e28d1232416e8ecd8217671ffe4df7"
 
 [[files]]
-file = "config/config/axiom/history/SingleplayerDustMoss WorldOverworld/entry0.hist"
+file = "config/axiom/history/SingleplayerDustMoss WorldOverworld/entry0.hist"
 hash = "8e298cad6b0d8f83c04dc9d80068fa31bd9aba95477509c9cb966a1058ef8144"
 
 [[files]]
-file = "config/config/axiom/history/SingleplayerDustMoss WorldOverworld/position"
+file = "config/axiom/history/SingleplayerDustMoss WorldOverworld/position"
 hash = "cd2662154e6d76b2b2b92e70c0cac3ccf534f9b74eb5b89819ec509083d00a50"
 
 [[files]]
-file = "config/config/axiom/history/SingleplayerNew World (3)Overworld/entry0.hist"
+file = "config/axiom/history/SingleplayerNew World (3)Overworld/entry0.hist"
 hash = "0a0e8bf0cd2f66f3e91c42411681679a7dfa44f757bf8202fb46fdff36fd2147"
 
 [[files]]
-file = "config/config/axiom/history/SingleplayerNew World (3)Overworld/entry1.hist"
+file = "config/axiom/history/SingleplayerNew World (3)Overworld/entry1.hist"
 hash = "52aaaf7c976bea0610aa33c0653023d7b8ab7717c25cbc5c40bd038c4c66fdcc"
 
 [[files]]
-file = "config/config/axiom/history/SingleplayerNew World (3)Overworld/entry2.hist"
+file = "config/axiom/history/SingleplayerNew World (3)Overworld/entry2.hist"
 hash = "41f572fc1cf5108cb6f10d7c290f86397522fe85594fb612b9a9539137c7c43d"
 
 [[files]]
-file = "config/config/axiom/history/SingleplayerNew World (3)Overworld/position"
+file = "config/axiom/history/SingleplayerNew World (3)Overworld/position"
 hash = "b51f34d123eb604fed1894df4caf94e649233ee1c618a46ffa55d66e5d9aceff"
 
 [[files]]
-file = "config/config/axiom/history/Singleplayervideo testOverworld/entry0.hist"
+file = "config/axiom/history/Singleplayervideo testOverworld/entry0.hist"
 hash = "ddeaf727fc732a05b3115f94d35027fdfa6a367f421dadaba995cdf27737d226"
 
 [[files]]
-file = "config/config/axiom/history/Singleplayervideo testOverworld/position"
+file = "config/axiom/history/Singleplayervideo testOverworld/position"
 hash = "cd2662154e6d76b2b2b92e70c0cac3ccf534f9b74eb5b89819ec509083d00a50"
 
 [[files]]
-file = "config/config/axiom/history/Singleplayerworld1Overworld/entry0.hist"
+file = "config/axiom/history/Singleplayerworld1Overworld/entry0.hist"
 hash = "bf23b4e2f01ce63dcb3edf72c3255a5f7afa8f55d02c0fcac5eef33c6df06583"
 
 [[files]]
-file = "config/config/axiom/history/Singleplayerworld1Overworld/position"
+file = "config/axiom/history/Singleplayerworld1Overworld/position"
 hash = "cd2662154e6d76b2b2b92e70c0cac3ccf534f9b74eb5b89819ec509083d00a50"
 
 [[files]]
-file = "config/config/axiom/history/SingleplayerworldOverworld/entry0.hist"
+file = "config/axiom/history/SingleplayerworldOverworld/entry0.hist"
 hash = "63eeca2104410c4ab7bb5b40ea38a573e5e96c97b90bf94dbf5c324bf6b78cdc"
 
 [[files]]
-file = "config/config/axiom/history/SingleplayerworldOverworld/entry1.hist"
+file = "config/axiom/history/SingleplayerworldOverworld/entry1.hist"
 hash = "5baab5463609ccb326af3dc03c847db7034a62474c802d6600e7a32ba9b860bd"
 
 [[files]]
-file = "config/config/axiom/history/SingleplayerworldOverworld/entry2.hist"
+file = "config/axiom/history/SingleplayerworldOverworld/entry2.hist"
 hash = "4e263cdd8237b04992b4b50e8b21c0acd062bd0b5b66b69a790d15d5ad33e62e"
 
 [[files]]
-file = "config/config/axiom/history/SingleplayerworldOverworld/entry3.hist"
+file = "config/axiom/history/SingleplayerworldOverworld/entry3.hist"
 hash = "73f4aab5b9193cd1623892de0ebc05296f1d1ed525ece6f9a8e9cd3e21bd504a"
 
 [[files]]
-file = "config/config/axiom/history/SingleplayerworldOverworld/entry4.hist"
+file = "config/axiom/history/SingleplayerworldOverworld/entry4.hist"
 hash = "152a8197bfd10399c71f0d2eab58148a5a49ac704834f5c13b2a4d8a1aa1251f"
 
 [[files]]
-file = "config/config/axiom/history/SingleplayerworldOverworld/position"
+file = "config/axiom/history/SingleplayerworldOverworld/position"
 hash = "7279e8c3ad3fee56a18c048ce620d342f1961e75a0dd2c9777121b7880e72fd3"
 
 [[files]]
-file = "config/config/axiom/hotbars/Crushing world"
+file = "config/axiom/hotbars/Crushing world"
 hash = "b5103ffe75299770298c4cb6b59005cfdf7c2bb17edde58701b3baceafbc8f0a"
 
 [[files]]
-file = "config/config/axiom/hotbars/New World"
+file = "config/axiom/hotbars/New World"
 hash = "8e23eb3c4db038606bdef76177b212f8ac68f6b2e7986304b56db23956744c6c"
 
 [[files]]
-file = "config/config/axiom/hotbars/New World (1)"
+file = "config/axiom/hotbars/New World (1)"
 hash = "d79c3bf7786a2dad1a60ff99248f48ac879973d02d756433ed6abaf73c932b60"
 
 [[files]]
-file = "config/config/axiom/hotbars/New World (3)"
+file = "config/axiom/hotbars/New World (3)"
 hash = "cc91b164930a76ea4e0dde381db87f320ffad0afcbf80a8219c57891e07cd7d4"
 
 [[files]]
-file = "config/config/axiom/hotbars/world"
+file = "config/axiom/hotbars/world"
 hash = "e66bd1376fa69b1af59df1fd43a5a78bfbdd15634ae046851fa3e3a83ddd5ec1"
 
 [[files]]
-file = "config/config/axiom/hotbars/world01"
+file = "config/axiom/hotbars/world01"
 hash = "5f1e623229b8f9e86483e43199b09b867062b8b7f563fb04a16dd62da18242a4"
 
 [[files]]
-file = "config/config/axiom/hotbars/world1"
+file = "config/axiom/hotbars/world1"
 hash = "37045539201da1949e0fe6aaa36da4eacd33b7f0158cee7b7b4234227a2e56b6"
 
 [[files]]
-file = "config/config/axiom/hotbars/world_2026-03-22_08-23-02"
+file = "config/axiom/hotbars/world_2026-03-22_08-23-02"
 hash = "f06b4e0f4ce2ff8b2913379f51aa3b4075120d158ad2b5c4bf2f80caffd144dc"
 
 [[files]]
-file = "config/config/axiom/imgui.ini"
+file = "config/axiom/imgui.ini"
 hash = "2eb03c308b41fb2120a51db9d892a8d4a4a29c76c7967a3af87e780c43964760"
 
 [[files]]
-file = "config/config/axiom/tool_presets/noise_painter/dirt.nbt"
+file = "config/axiom/tool_presets/noise_painter/dirt.nbt"
 hash = "d3873581bfc5695f526299e7af5abd9402c0f4cf25670245f42f29227bc4dc5b"
 
 [[files]]
-file = "config/config/axiom/tool_presets/noise_painter/granite.nbt"
+file = "config/axiom/tool_presets/noise_painter/granite.nbt"
 hash = "bf0afcc76f1bb644fab99bb65243a82972b9ff8feac693e91aaafe952e944b82"
 
 [[files]]
-file = "config/config/axiom/tool_presets/noise_painter/ground.nbt"
+file = "config/axiom/tool_presets/noise_painter/ground.nbt"
 hash = "c7610001a3ef37f78afdd33071ad495c095d0d2670cb405a4aeec155dfc11f21"
 
 [[files]]
-file = "config/config/axiom/tool_presets/noise_painter/limestone.nbt"
+file = "config/axiom/tool_presets/noise_painter/limestone.nbt"
 hash = "5b55742b6f6d6f21a1496e1c2c22f44cb34ff08aa67a429723808ca169602855"
 
 [[files]]
-file = "config/config/axiom/tool_presets/noise_painter/path.nbt"
+file = "config/axiom/tool_presets/noise_painter/path.nbt"
 hash = "1318d0af03e21e36dd6d5d4fa887fcaf129b7b847ca4901a17f9a59b34a86f8c"
 
 [[files]]
-file = "config/config/axiom/tool_presets/noise_painter/trainpath.nbt"
+file = "config/axiom/tool_presets/noise_painter/trainpath.nbt"
 hash = "4cd6f701fb91559d312004e035562d31e0e4158435e5d37e21f49bb8fbd11a7e"
 
 [[files]]
-file = "config/config/axiom/tool_presets/noise_painter/wall.nbt"
+file = "config/axiom/tool_presets/noise_painter/wall.nbt"
 hash = "ce5a37ef39077be30eaf9c29d6f0948846c070aae40d6fb4e7ed5e0fa7268dd8"
 
 [[files]]
-file = "config/config/badoptimizations.txt"
+file = "config/badoptimizations.txt"
 hash = "9f56bd826fea6a8c6d68db34b09218e9c66154b82854150f954ddf56ec80f439"
 
 [[files]]
-file = "config/config/better-advanced-tooltips-client.toml"
+file = "config/better-advanced-tooltips-client.toml"
 hash = "5b0da765c45397402cffe340f632544a8e740a767937f353a3a8206b6cdde0fa"
 
 [[files]]
-file = "config/config/better-trims.json5"
+file = "config/better-trims.json5"
 hash = "27fdcb0b7b431d1fc8d226500746a31fd99b669d797024fa931721b451349d50"
 
 [[files]]
-file = "config/config/betterclouds-v1.json"
+file = "config/betterclouds-v1.json"
 hash = "5fad59a6dcf888e90e469744b891b4b59233f17eb1e0827f628e6c8d897e012b"
 
 [[files]]
-file = "config/config/bettermodsbutton-client.toml"
+file = "config/bettermodsbutton-client.toml"
 hash = "990a0f5f6e936416ed2516b7c46daeea14175a8dd9ec2111a787f4cd05fd2c41"
 
 [[files]]
-file = "config/config/bits_n_bobs-common.toml"
+file = "config/bits_n_bobs-common.toml"
 hash = "83492cb723f368b41ed4b2b62a99ab20bec581149e2853d6a41750cc6b3a39b9"
 
 [[files]]
-file = "config/config/bits_n_bobs-server.toml"
+file = "config/bits_n_bobs-server.toml"
 hash = "fc6b87d500994353673065c6fde9f6dabb0e6b1c61a9db86e2a69d90a57ffb7e"
 
 [[files]]
-file = "config/config/blur.json"
+file = "config/blur.json"
 hash = "a73804af344a169e5ff215d850439ecc1651014cfed1816b3dfab03ff9b0456c"
 
 [[files]]
-file = "config/config/bobby.conf"
+file = "config/bobby.conf"
 hash = "7b8ca233ee25d95db7ea4601b786d656f3f7569ddf129836ce7f8dbbe5eb8926"
 
 [[files]]
-file = "config/config/bocchud.json"
+file = "config/bocchud.json"
 hash = "940b46656afbcdfec9ba03a49d9f74b0a467416844a40f25e47087748d1af6ab"
 
 [[files]]
-file = "config/config/bocchud/37.27.225.173_27029.json"
+file = "config/bocchud/37.27.225.173_27029.json"
 hash = "92dde437e88be9b9efa176f7e600207b8f00953ddca11ff7f77409584bcc0ced"
 
 [[files]]
-file = "config/config/bocchud/37.27.225.173_27029_dim_minecraft_overworld.json"
+file = "config/bocchud/37.27.225.173_27029_dim_minecraft_overworld.json"
 hash = "dd81d0abfde5de7a306ad024b0e6dc984435eb7f14502199cff365a767dbfb2c"
 
 [[files]]
-file = "config/config/bocchud/37.27.225.173_27029_dim_minecraft_the_nether.json"
+file = "config/bocchud/37.27.225.173_27029_dim_minecraft_the_nether.json"
 hash = "dd81d0abfde5de7a306ad024b0e6dc984435eb7f14502199cff365a767dbfb2c"
 
 [[files]]
-file = "config/config/bocchud/New World.json"
+file = "config/bocchud/New World.json"
 hash = "1b3cbe284c5f5ee8fd9af6acb31fec23297b5beae5d4d53f52cccd9a9a8ca472"
 
 [[files]]
-file = "config/config/bocchud/New World_dim_minecraft_overworld.json"
+file = "config/bocchud/New World_dim_minecraft_overworld.json"
 hash = "dd81d0abfde5de7a306ad024b0e6dc984435eb7f14502199cff365a767dbfb2c"
 
 [[files]]
-file = "config/config/bocchud/world.json"
+file = "config/bocchud/world.json"
 hash = "f1f4cc8245522d237976851d03e29a46e2a12a6991a65dbd2ce6afccf2d6ed29"
 
 [[files]]
-file = "config/config/bocchud/world_dim_minecraft_overworld.json"
+file = "config/bocchud/world_dim_minecraft_overworld.json"
 hash = "dd81d0abfde5de7a306ad024b0e6dc984435eb7f14502199cff365a767dbfb2c"
 
 [[files]]
-file = "config/config/bocchud/world_dim_minecraft_the_nether.json"
+file = "config/bocchud/world_dim_minecraft_the_nether.json"
 hash = "dd81d0abfde5de7a306ad024b0e6dc984435eb7f14502199cff365a767dbfb2c"
 
 [[files]]
-file = "config/config/c2me.toml"
+file = "config/c2me.toml"
 hash = "e58909d24953aeca26b71b89428ca299654deca7ba545a3e496f9379ba928870"
 
 [[files]]
-file = "config/config/camera-client.toml"
+file = "config/camera-client.toml"
 hash = "ffdbc998a80da32f59ab4e03bc007f3dd116d7b22421edc43991c5dc29104167"
 
 [[files]]
-file = "config/config/camera-server.toml"
+file = "config/camera-server.toml"
 hash = "d706ac615a38636d4ae02d962754b1ba5be90e4a9dabc788d9ebc66ed5d5f555"
 
 [[files]]
-file = "config/config/carryon-client.toml"
+file = "config/carryon-client.toml"
 hash = "865a366143df5f4d92941058c823ea48deb8445f6444b45e870331b16a444f0f"
 
 [[files]]
-file = "config/config/carryon-common.toml"
+file = "config/carryon-common.toml"
 hash = "858e1897963babd54b05a16aca41739c8b1877372dc9b5f05dfcdb754a5c89b2"
 
 [[files]]
-file = "config/config/chat_heads.json5"
+file = "config/chat_heads.json5"
 hash = "e198750061411cf7fca624e38b894ca104ca2cf2c2940da0409ce4240dcc2503"
 
 [[files]]
-file = "config/config/chisel.json"
+file = "config/chisel.json"
 hash = "f30375505d2b59c55c43f5157f53c97251c1ad40aa64dd210a38b80c9cdd7d0b"
 
 [[files]]
-file = "config/config/chloride-client.json"
+file = "config/chloride-client.json"
 hash = "02cef59b881b145937522b006305665c0a5c669f2f4e99bc995893d641520163"
 
 [[files]]
-file = "config/config/chunky/config.json"
+file = "config/chunky/config.json"
 hash = "c7384a22595488f79f3125b22cc175eb729267267807a084479419349797abc8"
 
 [[files]]
-file = "config/config/citresewn.json"
+file = "config/citresewn.json"
 hash = "1ea03400477ac2075d61ae58cfc573bc78ce954507d090ab69547de279918656"
 
 [[files]]
-file = "config/config/clean_tooltips-client.toml"
+file = "config/clean_tooltips-client.toml"
 hash = "0c3233fa6a68043261ca316e112f16c18fa4c1612047fdc7292c717bb1a77c33"
 
 [[files]]
-file = "config/config/clientsort-server.json"
+file = "config/clientsort-server.json"
 hash = "e3cf5f31b64de3d8a2d5634089deb809aea457bca4b35f79f7863c60fb1fbdaf"
 
 [[files]]
-file = "config/config/clientsort.json"
+file = "config/clientsort.json"
 hash = "8c6197e9695838c71e423217be6976b8a1381cee738bbfbf6ec31045d525a30a"
 
 [[files]]
-file = "config/config/collective.json5"
+file = "config/collective.json5"
 hash = "b6243b955bf123f86c947510d9f8f3a4b5f7b8fe3775d834f458d60a3223847f"
 
 [[files]]
-file = "config/config/colorwheel-client.toml"
+file = "config/colorwheel-client.toml"
 hash = "aa78495b059b36ae8603b628eb93bc9b21934460aaa1754f0332cc2cbe4ffff3"
 
 [[files]]
-file = "config/config/comforts-common.toml"
+file = "config/comforts-common.toml"
 hash = "1f21c10bfce9cd25aea641046a79df88867f68ba8ba3838a5e1662521f9f06a2"
 
 [[files]]
-file = "config/config/comforts-server.toml"
+file = "config/comforts-server.toml"
 hash = "f6df47d3f1002fde8d9e59c8068acbc39e976b3392e8fd528dc9b38b2856c5a0"
 
 [[files]]
-file = "config/config/computercraft-client.toml"
+file = "config/computercraft-client.toml"
 hash = "db7bbdc89ab05070b2a4c22f6348b0c80aca4a3c449d92cdc6bc56b5af25ff7b"
 
 [[files]]
-file = "config/config/computercraft-server.toml"
+file = "config/computercraft-server.toml"
 hash = "d4995da449d5c96d24245c7108b339b729cc088b012170b3445f7f4fc1e20b3d"
 
 [[files]]
-file = "config/config/connector.json"
+file = "config/connector.json"
 hash = "67bee06b2b321ed25e0d4e9b5bac7ab76c8ae76442de6caf11f463ce2ae1ac5e"
 
 [[files]]
-file = "config/config/connectorextras_energy_bridge-common.toml"
+file = "config/connectorextras_energy_bridge-common.toml"
 hash = "2960bccd52230cb571c760ba9122ec1f4b21b5079f977700d4ac03f1518aef6d"
 
 [[files]]
-file = "config/config/continuity.json"
+file = "config/continuity.json"
 hash = "00267a602028cbb037dcb0b5f803db31bed284235ca9c1ea189ad4179311a2f4"
 
 [[files]]
-file = "config/config/copperagebackport.json"
+file = "config/copperagebackport.json"
 hash = "410faae183c6b92b8b2abb0b61928b35705f01fea5c1c2ba395a2458e11f8325"
 
 [[files]]
-file = "config/config/copycats-client.toml"
+file = "config/copycats-client.toml"
 hash = "381f51308cca7e8aaa1aebb9253a6be686f74ebc70d4da39dd7750d2ca2e9598"
 
 [[files]]
-file = "config/config/copycats-common.toml"
+file = "config/copycats-common.toml"
 hash = "4554d0df9a25e4f58c07df938806bb435fa2556263b60537bcd8f3f3cd28f1c3"
 
 [[files]]
-file = "config/config/copycats-server.toml"
+file = "config/copycats-server.toml"
 hash = "3a2e328d298b0ef379673beffa566eda2d92b4f1d0e00425573b59f0ea66e646"
 
 [[files]]
-file = "config/config/corpse-server.toml"
+file = "config/corpse-server.toml"
 hash = "806dc2002f95b1bcd16dec843051abc513576a1986ea1931d8c2cc82aef201c7"
 
 [[files]]
-file = "config/config/cosmeticarmorreworked-client.toml"
+file = "config/cosmeticarmorreworked-client.toml"
 hash = "4f9577e9c8002872f5f3382f9892a38cbeefb6e2772b2ca248beab44859068fc"
 
 [[files]]
-file = "config/config/cosmeticarmorreworked-common.toml"
+file = "config/cosmeticarmorreworked-common.toml"
 hash = "687143b4844094f166ff875447d139941970649475924d47ce8982e04ef1cf5d"
 
 [[files]]
-file = "config/config/create-client.toml"
+file = "config/create-client.toml"
 hash = "74d6b8cf354544ab247c23650044ae9af3871eadde3826fc95780604f56f3a29"
 
 [[files]]
-file = "config/config/create-common.toml"
+file = "config/create-common.toml"
 hash = "2e77b1d93b40ce3f381ad7eb2a9e6d7148de917518be5c2616939a4369c4b140"
 
 [[files]]
-file = "config/config/create-server.toml"
+file = "config/create-server.toml"
 hash = "61cb0da8ee373cf1d4778b62464910165e52a1cae79a45898ba0e0da837e19cb"
 
 [[files]]
-file = "config/config/create_central_kitchen-client.toml"
+file = "config/create_central_kitchen-client.toml"
 hash = "0a1393aff89a803f574fcdb72a6c39c7fcdc95fae4e9ccf3d53cbd155c405c9d"
 
 [[files]]
-file = "config/config/create_central_kitchen-common.toml"
+file = "config/create_central_kitchen-common.toml"
 hash = "e211c5226a565d1affc5d6c2f752cc5856369a6118ca2fef3a2b61f3fa36a5a8"
 
 [[files]]
-file = "config/config/create_deep_dark-common.toml"
+file = "config/create_deep_dark-common.toml"
 hash = "2f004290be6150ae3d5dfcb9674ebb2c407a4ca69e4e546f0e86dff9e2c2da16"
 
 [[files]]
-file = "config/config/create_dragons_plus-client.toml"
+file = "config/create_dragons_plus-client.toml"
 hash = "cf30f0e99ef65fe80e80481bf9aaafefdbbf97adb84c0c3611ac2d9ca3cf8a28"
 
 [[files]]
-file = "config/config/create_dragons_plus-common.toml"
+file = "config/create_dragons_plus-common.toml"
 hash = "f07c7bc7b3b13f9e05c6dd2e82567672258962b092a2d80be9c4bc2e71c75536"
 
 [[files]]
-file = "config/config/create_dragons_plus-server.toml"
+file = "config/create_dragons_plus-server.toml"
 hash = "06c232854b6d18ea18bd9bbbed7a0317c0113aad12734066a46a1d9d28278520"
 
 [[files]]
-file = "config/config/create_enchantment_industry-client.toml"
+file = "config/create_enchantment_industry-client.toml"
 hash = "f1c6a25f81ec0f112e431b9064088e641c37b33a1aa16eed2bc4d03884c2b39c"
 
 [[files]]
-file = "config/config/create_enchantment_industry-common.toml"
+file = "config/create_enchantment_industry-common.toml"
 hash = "ba7ae48de21489764763fbcfa70a0751114cec08af0d0dfebee03af1f5892ca1"
 
 [[files]]
-file = "config/config/create_enchantment_industry-server.toml"
+file = "config/create_enchantment_industry-server.toml"
 hash = "33a9dbca0cf3e8572343b31546a4b34dee3878d11301556cf1af70dc7dfa565b"
 
 [[files]]
-file = "config/config/create_extra_casing-common.toml"
+file = "config/create_extra_casing-common.toml"
 hash = "be51b824b8984a949982436d30c7ec23099984fb69987e4e98fd81cbb952bdba"
 
 [[files]]
-file = "config/config/create_ez_stock_ticker-client.toml"
+file = "config/create_ez_stock_ticker-client.toml"
 hash = "82400e43f5dee0d43d5aaf38795311cd3e5ec91fc161e4115fd7ebdfff408c1a"
 
 [[files]]
-file = "config/config/create_hypertube-client.toml"
+file = "config/create_hypertube-client.toml"
 hash = "25400eab973ba2d5cee6b6beaba0eecb75d597843124c2596ea7f4d0d2622749"
 
 [[files]]
-file = "config/config/create_hypertube-server.toml"
+file = "config/create_hypertube-server.toml"
 hash = "ed9e26030aaa0f5cbb819118b618b185735df7c451be147c67a14d4c799bdbc1"
 
 [[files]]
-file = "config/config/create_integrated_farming-server.toml"
+file = "config/create_integrated_farming-server.toml"
 hash = "f358e8dcd4c50c7d42f256b5b28b25ba1f45416b49352360c88a0a9c8a2759b4"
 
 [[files]]
-file = "config/config/create_mixed_casing-client.toml"
+file = "config/create_mixed_casing-client.toml"
 hash = "146da323e8ffd366abc778e11190dde13568fd5d2286e66225d47ecd4b9864f1"
 
 [[files]]
-file = "config/config/create_mixed_casing-server.toml"
+file = "config/create_mixed_casing-server.toml"
 hash = "99c44673f42de779ae791bb0520f8b1652f24de91fb17b28757685fcc4529dc9"
 
 [[files]]
-file = "config/config/create_power_loader-server.toml"
+file = "config/create_power_loader-server.toml"
 hash = "5c8b5c30f43e493b8e38b5a1bc767f5c117560ea1d9970d9c850dd02040ccbf2"
 
 [[files]]
-file = "config/config/create_railway-common.toml"
+file = "config/create_railway-common.toml"
 hash = "2fcc50b2e34bf772d9b847f0f673cac74ead1e2dd1e54928b4f71a998ae303cc"
 
 [[files]]
-file = "config/config/createaddition-common.toml"
+file = "config/createaddition-common.toml"
 hash = "8ba568f297cffbf04996612616978cdff150b0af7ed461839e41b7898c4a2084"
 
 [[files]]
-file = "config/config/createadditionallogistics-common.toml"
+file = "config/createadditionallogistics-common.toml"
 hash = "ec63bc8b7d63e38d54c390cdd6b389b1772c48bd780e893892c0edd73ef5dec3"
 
 [[files]]
-file = "config/config/createadditionallogistics-server.toml"
+file = "config/createadditionallogistics-server.toml"
 hash = "b273c8839718c4a3e6b7d398f2d1aceb25e7e4998c68c7d1dd12ee71f4590484"
 
 [[files]]
-file = "config/config/createcasing-common.toml"
+file = "config/createcasing-common.toml"
 hash = "9d77c2d4c3cd8a73541f7d1930ca22576d829adc6e9ef9d783fa85526f8a697f"
 
 [[files]]
-file = "config/config/creategoggles-client.toml"
+file = "config/creategoggles-client.toml"
 hash = "832c5d05e957524e8ee52b9715390fbcf22c2feadf4a1529f561f54764bbfaf0"
 
 [[files]]
-file = "config/config/creategoggles-common.toml"
+file = "config/creategoggles-common.toml"
 hash = "674d0b72918889f050aeac9d59890f35330c833df1c93b35dd4a797020a43c40"
 
 [[files]]
-file = "config/config/createlazytick-client.toml"
+file = "config/createlazytick-client.toml"
 hash = "cf6916bf5d6b55af5dff068b1827ce42d01bf4487df349c2ce055070c46d325a"
 
 [[files]]
-file = "config/config/createlazytick-server.toml"
+file = "config/createlazytick-server.toml"
 hash = "3aa53c17953f244e0a4fe6908ea3f4aaea794725b9544947fed2f84dd486af13"
 
 [[files]]
-file = "config/config/createmoregirder-server.toml"
+file = "config/createmoregirder-server.toml"
 hash = "c3fd2c3c0c10d8db46e1d43d3d49f3939336b85c44317bcaf5bf92531657f825"
 
 [[files]]
-file = "config/config/createrailwaysnavigator-client.toml"
+file = "config/createrailwaysnavigator-client.toml"
 hash = "dda781c8acfaa8ef48e13ccad498dede11d0528d0ba524b88041959e13505f1a"
 
 [[files]]
-file = "config/config/createrailwaysnavigator-common.toml"
+file = "config/createrailwaysnavigator-common.toml"
 hash = "5ce26ec6230dc714e21f9c970505f76ace3571a231b32b5690c9acf4d1ebdb69"
 
 [[files]]
-file = "config/config/creativecore-client.json"
+file = "config/creativecore-client.json"
 hash = "acb6c8c1394d4d6f2d0c98d5c314c5ef8ad34b8a76f0a420fc596733bcbc51ac"
 
 [[files]]
-file = "config/config/creativecore.json"
+file = "config/creativecore.json"
 hash = "5f08d0878d7f89c6b4c947a49dce368d7738255d44fecf9aad59ec6ae8a4fcef"
 
 [[files]]
-file = "config/config/cryonicconfig.json"
+file = "config/cryonicconfig.json"
 hash = "bc17cffb9ac63d90331ffe1aa114611597cba47905883bbdc33f6e00d42c0545"
 
 [[files]]
-file = "config/config/cubes_without_borders.json"
+file = "config/cubes_without_borders.json"
 hash = "71df287e1c8820d355a4148d1daed38fda03466be93d2b533aaead7debc25440"
 
 [[files]]
-file = "config/config/cupboard.json"
+file = "config/cupboard.json"
 hash = "08bda8a4a20d302cb97d06bf11c4991e152a3a9e04c17302ea3b42aa77e6b028"
 
 [[files]]
-file = "config/config/darkmodeeverywhere-client.toml"
+file = "config/darkmodeeverywhere-client.toml"
 hash = "2346027aff7feab96638efc4328705550f2598a2412da0a0b399056807cef53a"
 
 [[files]]
-file = "config/config/darkmodeeverywhereshaders.json"
+file = "config/darkmodeeverywhereshaders.json"
 hash = "eb11747ec5a913dbcbabaa6327cbfab7c7ba0825f6aa141e567e56a03afe0284"
 
 [[files]]
-file = "config/config/dndecor-server.toml"
+file = "config/dndecor-server.toml"
 hash = "daaeeb6fa5aaaaf013bb024e9d18604c3d7b4677985e637963d68b50d43fd80a"
 
 [[files]]
-file = "config/config/dndesires-client.toml"
+file = "config/dndesires-client.toml"
 hash = "4e031d691b0ba66366b0cdecc34925f540feec7f3b4617c572f0a0dee63e172f"
 
 [[files]]
-file = "config/config/dndesires-server.toml"
+file = "config/dndesires-server.toml"
 hash = "38b0541a718929568aa97eb530055088557888bc4b87d84bf6aee23020dbf610"
 
 [[files]]
-file = "config/config/dragonlib-common.toml"
+file = "config/dragonlib-common.toml"
 hash = "e1be7c7e47f7c497454075fe9144247dae80e98726ca426e1c0b0f4e4047e480"
 
 [[files]]
-file = "config/config/dragonlib-server.toml"
+file = "config/dragonlib-server.toml"
 hash = "19b1ac936e18c960272fd5ab05436cf7e66b05961714f61afdff5ffe067015b1"
 
 [[files]]
-file = "config/config/dsurround/dsurround.json"
+file = "config/dsurround/dsurround.json"
 hash = "d46ae62f4e77deb19e5b1d79e739ee1c2495f836496c71ea1627b37bd922d179"
 
 [[files]]
-file = "config/config/dsurround/soundconfig.json"
+file = "config/dsurround/soundconfig.json"
 hash = "fa64bd86613903b70b20777bbead61ca0d78312fc2e5c164921dd856e8029ddd"
 
 [[files]]
-file = "config/config/embeddium-fingerprint.json"
+file = "config/embeddium-fingerprint.json"
 hash = "9d945b4a005e16662655f00247cf2fd9cf78c14b17932b1123c8797ed27befd2"
 
 [[files]]
-file = "config/config/embeddium-mixins.properties"
+file = "config/embeddium-mixins.properties"
 hash = "708750dc530ed52462185c7b1421291db8b292a350e164daaad437ba6f4fe4ef"
 
 [[files]]
-file = "config/config/embeddium-options.json"
+file = "config/embeddium-options.json"
 hash = "2e45fad8b1f64480f223f2c48be441d2e6d9768581fce2f247483574335b383c"
 
 [[files]]
-file = "config/config/emixx/emixx-client.toml"
+file = "config/emixx/emixx-client.toml"
 hash = "f5e9f31056fc5d75d0be6a03e6994f59bea9b3380770b74a57a6413c37e1f3b5"
 
 [[files]]
-file = "config/config/entity_model_features.json"
+file = "config/entity_model_features.json"
 hash = "fb74a8337aa88bfd632c018fa913a151d49d42024b473e9410861c364bc8b894"
 
 [[files]]
-file = "config/config/entity_texture_features.json"
+file = "config/entity_texture_features.json"
 hash = "7e303543c4e46e6d163f7578af256168356e4deb5d4ab1b1cb6766f2a74a060f"
 
 [[files]]
-file = "config/config/entityculling.json"
+file = "config/entityculling.json"
 hash = "2bab6d5f04afef0776e86ae1009e9ca50965843d58db4e556acc0607e6dadc50"
 
 [[files]]
-file = "config/config/escalated-server.toml"
+file = "config/escalated-server.toml"
 hash = "1601cca18190ea48cb33303a654133a1475f9aed370da5f2120f2b850aa4d740"
 
 [[files]]
-file = "config/config/etf_warnings.json"
+file = "config/etf_warnings.json"
 hash = "a5ba22e63061c1fb67f0f895f17681351eaeccc225faef966c29ee630593275e"
 
 [[files]]
-file = "config/config/extremesoundmuffler-client.toml"
+file = "config/extremesoundmuffler-client.toml"
 hash = "ce8edf5481ae1099a6104f4ab8ddaa7258277a3f4d5a01238213b44aa46c62f1"
 
 [[files]]
-file = "config/config/fabric/indigo-renderer.properties"
+file = "config/fabric/indigo-renderer.properties"
 hash = "c1b28bc2f60ead965dacc45961e972f1b1b1dc0b9c4decb520ae8a012776b417"
 
 [[files]]
-file = "config/config/farmersdelight-client.toml"
+file = "config/farmersdelight-client.toml"
 hash = "a8cdc0376674d522d92d977cac5800d00c6f70ea62ea83dea59595fb232b8e3e"
 
 [[files]]
-file = "config/config/farmersdelight-common.toml"
+file = "config/farmersdelight-common.toml"
 hash = "54663bc8a96e5db077e33312aba1b5a16c462f080e3b8c6fefabd4f586df9090"
 
 [[files]]
-file = "config/config/ferritecore-mixin.toml"
+file = "config/ferritecore-mixin.toml"
 hash = "949598a74966422d8d35610321eb09d789802804d3f0114be17b2f10f70905e8"
 
 [[files]]
-file = "config/config/flashback/imgui.ini"
+file = "config/flashback/imgui.ini"
 hash = "f78b8334bf9399cb6942bcb7c69b4638ac34d18bcea90df8f005760f3e2b5d47"
 
 [[files]]
-file = "config/config/flerovium.json"
+file = "config/flerovium.json"
 hash = "566a6c273c8d4854691a6829f20c433215e8a1b8f8fa01fd2ee394d5a54c9a24"
 
 [[files]]
-file = "config/config/flywheel-client.toml"
+file = "config/flywheel-client.toml"
 hash = "4f60afafe27bd7e7098605e5468e89a651b89ffeda1698a06f81bd7161cef767"
 
 [[files]]
-file = "config/config/fml.toml"
+file = "config/fml.toml"
 hash = "cc59fb1039726fda3ab1eb69b06d9b9aebb7496604ea579cfb735bc5377e7825"
 
 [[files]]
-file = "config/config/freecam.json5"
+file = "config/freecam.json5"
 hash = "db773bcea0d2b8ea773474c0595b95bbd5ad7eaac6184df7b893f7502bfc9506"
 
 [[files]]
-file = "config/config/friendsandfoes.json"
+file = "config/friendsandfoes.json"
 hash = "56367d64e53853bba8881e9e09ec9425cc15e482ea49f9b2bf658b43e18f63cf"
 
 [[files]]
-file = "config/config/fzzy_config/keybinds.toml"
+file = "config/fzzy_config/keybinds.toml"
 hash = "26ac5810c9b5dc5c1968827357f0a58c58ac2b6f7b082630960228e16585062f"
 
 [[files]]
-file = "config/config/garnished-client.toml"
+file = "config/garnished-client.toml"
 hash = "4990df5749bde4bc78aee3e0d34166bd2be53321f677c954813002cf42cf873c"
 
 [[files]]
-file = "config/config/garnished-common.toml"
+file = "config/garnished-common.toml"
 hash = "efb2a7c9f7de3bb8da2a192fa343212466026d4bed11b6044b0926217e2efad6"
 
 [[files]]
-file = "config/config/garnished-server.toml"
+file = "config/garnished-server.toml"
 hash = "6076bf4b7174646321b01aaed22a24c39abf47ab37377dc1346cf3a5acb006e5"
 
 [[files]]
-file = "config/config/handoveryouritems.json5"
+file = "config/handoveryouritems.json5"
 hash = "793dd29112341a3751e7d42bc8c2329fdd4971e271e0d58d4a3952250849bd68"
 
 [[files]]
-file = "config/config/highlighter.toml"
+file = "config/highlighter.toml"
 hash = "8fe25a06991fb387c08663b895898691e0bdbadf4139f6d81748a20372ff32c8"
 
 [[files]]
-file = "config/config/horseman-client.toml"
+file = "config/horseman-client.toml"
 hash = "2512da6986da280358152b30d6a787b291aa46e975d1a33e52c98994d69300c1"
 
 [[files]]
-file = "config/config/horseman-common.toml"
+file = "config/horseman-common.toml"
 hash = "416edc95699d475b533e25ccd80d0a3e7587a0e30c7b8ca2b6ba1111afe83b8d"
 
 [[files]]
-file = "config/config/horseman-server.toml"
+file = "config/horseman-server.toml"
 hash = "e7b7cf51cdaf73d6b049fbb8b51e847ae1bee33dbf13ac06e17a090f17d1a8e1"
 
 [[files]]
-file = "config/config/immediatelyfast.json"
+file = "config/immediatelyfast.json"
 hash = "a6c9d147a51c9e432c5c74c00285cfc5ba8b6fa4a0c6686051a7168b158d0d7a"
 
 [[files]]
-file = "config/config/immersive_aircraft.json"
+file = "config/immersive_aircraft.json"
 hash = "7e934f3c7ff3beaeb73d7242b68467fc62b779827c9cd3a79736fe79c93d4aec"
 
 [[files]]
-file = "config/config/immersive_paintings/client_config.toml"
+file = "config/immersive_paintings/client_config.toml"
 hash = "605faba468ead3929cbb84764fc42941b1dd4d724cbf900996d3c18955d0b177"
 
 [[files]]
-file = "config/config/immersive_paintings/common_config.toml"
+file = "config/immersive_paintings/common_config.toml"
 hash = "952032c00e3e37dc8193ba24b247ca1066e532186a7cde002c7538cde2b29958"
 
 [[files]]
-file = "config/config/iris-excluded.json"
+file = "config/iris-excluded.json"
 hash = "4d3264b58c502afaeca3f44e8d2db0843c54b8ba957afd21a2d450fe10dafefb"
 
 [[files]]
-file = "config/config/iris.properties"
+file = "config/iris.properties"
 hash = "a9177bee1e172f8dbc007fbc190103348c94ff58a9cedbbba53c1dafb8b32177"
 
 [[files]]
-file = "config/config/iteminteractions-client.toml"
+file = "config/iteminteractions-client.toml"
 hash = "4f0a6f90652668b77a29f2629150f67d155ad3a65d7e344046b3494f6cd191a2"
 
 [[files]]
-file = "config/config/iteminteractions-server.toml"
+file = "config/iteminteractions-server.toml"
 hash = "36b5a856aa405c89ef00a366ed8d8c5acae1e38fe58ee4788b5e007a32201436"
 
 [[files]]
-file = "config/config/jade/hide-blocks.json"
+file = "config/jade/hide-blocks.json"
 hash = "309df4ae96864c19eae41b646d58497c85a73b1fc3c584e772ef4d5822794baa"
 
 [[files]]
-file = "config/config/jade/hide-entities.json"
+file = "config/jade/hide-entities.json"
 hash = "3741bb54a4535fb5a00fb0ee1f4386f3dd17834aebdf9e89c21fcd3307109709"
 
 [[files]]
-file = "config/config/jade/jade.json"
+file = "config/jade/jade.json"
 hash = "5754114a0a663b321793a61f741bafa70c2a6dd649657260cdc096600763ad94"
 
 [[files]]
-file = "config/config/jade/plugins.json"
+file = "config/jade/plugins.json"
 hash = "67c79c5dfd4d1656d96aaf14505187a5ed21428cc4ade9a2bcd8ce1e255d596c"
 
 [[files]]
-file = "config/config/jade/sort-order.json"
+file = "config/jade/sort-order.json"
 hash = "bfffe29357b5620cf558d3104f1d6310077c4ee849b07938c05d440ca029eaed"
 
 [[files]]
-file = "config/config/jamlib/known_suspicious_jars.txt"
+file = "config/jamlib/known_suspicious_jars.txt"
 hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
-file = "config/config/jei-server.toml"
+file = "config/jei-server.toml"
 hash = "702acd04d99445bce659d04fcc488e1a98c8a803983c31ae262b0f3a47fdc8d3"
 
 [[files]]
-file = "config/config/jei/blacklist.json"
+file = "config/jei/blacklist.json"
 hash = "b4174dc6e985aa90be5002c14e94b956d8d586683c44b7b6710c44d08fb13648"
 
 [[files]]
-file = "config/config/jei/ingredient-list-mod-sort-order.ini"
+file = "config/jei/ingredient-list-mod-sort-order.ini"
 hash = "84be9ed948fea8150e1ebfe9a1b8d354670418bd82efff69579117da2374eab0"
 
 [[files]]
-file = "config/config/jei/ingredient-list-type-sort-order.ini"
+file = "config/jei/ingredient-list-type-sort-order.ini"
 hash = "9be9f5ca14028eda8df857922eea736a3d1e76a85661ba90edae2682eeb0b502"
 
 [[files]]
-file = "config/config/jei/jei-client.ini"
+file = "config/jei/jei-client.ini"
 hash = "6a7df00029ac5e93d7f4fe31e6ee0ac3d949c7f345be5f808f4839eb7017ff77"
 
 [[files]]
-file = "config/config/jei/jei-colors.ini"
+file = "config/jei/jei-colors.ini"
 hash = "755f199a3868224bdccb2a8ffd8f1a4eb2d96140757f444ba31f8d677a66034f"
 
 [[files]]
-file = "config/config/jei/jei-debug.ini"
+file = "config/jei/jei-debug.ini"
 hash = "960b16c7af6d62bbe7b58fb52216a8a15771bddecbeefab49a8614b7ca86dcbd"
 
 [[files]]
-file = "config/config/jei/jei-mod-id-format.ini"
+file = "config/jei/jei-mod-id-format.ini"
 hash = "6a91c09d1cabc1980d90ab102a03ec58c0551213ab16a459b599d768b334d054"
 
 [[files]]
-file = "config/config/jei/recipe-category-sort-order.ini"
+file = "config/jei/recipe-category-sort-order.ini"
 hash = "f35ddb9d0fbd03420e81355a0f06816310c338d11a3cc02c5b23d5f865ed2ef7"
 
 [[files]]
-file = "config/config/jei/world/local/Create_planning/bookmarks.json"
+file = "config/jei/world/local/Create_planning/bookmarks.json"
 hash = "9b9a24f5d317aeff571f3c2b534744b9eb7cdb0012141ab2d9a05b388bd68710"
 
 [[files]]
-file = "config/config/jei/world/local/Create_planning/lookupHistory.json"
+file = "config/jei/world/local/Create_planning/lookupHistory.json"
 hash = "ff875ae4ad3559748bd4b584505b584c0516535be022e7aab58e1e5d65efeeb5"
 
 [[files]]
-file = "config/config/jei/world/local/Crushing_world/bookmarks.json"
+file = "config/jei/world/local/Crushing_world/bookmarks.json"
 hash = "ec9fb5791a78177df9331218a044db3a6791f6ef9928b0f3e78ac8655c0ff411"
 
 [[files]]
-file = "config/config/jei/world/local/Crushing_world/lookupHistory.json"
+file = "config/jei/world/local/Crushing_world/lookupHistory.json"
 hash = "6e92553775d7c9691deb3d9aa703f47ccc16c7d688b376269a0060f62340bfde"
 
 [[files]]
-file = "config/config/jei/world/local/New_World/bookmarks.json"
+file = "config/jei/world/local/New_World/bookmarks.json"
 hash = "f40a90c70db8e379831637af24e5d68fcec8c217d3b37fec919926ef0b6ce5e9"
 
 [[files]]
-file = "config/config/jei/world/local/New_World/lookupHistory.json"
+file = "config/jei/world/local/New_World/lookupHistory.json"
 hash = "a89873489b11472df9b8f50304dc966aea77057b581bbaae6ae82ea979d37d69"
 
 [[files]]
-file = "config/config/jei/world/local/New_World__1/bookmarks.json"
+file = "config/jei/world/local/New_World__1/bookmarks.json"
 hash = "45e40aee2ceb4942bf4808a7443b9445a29672956be673e387b87afe15b56075"
 
 [[files]]
-file = "config/config/jei/world/local/New_World__1/lookupHistory.json"
+file = "config/jei/world/local/New_World__1/lookupHistory.json"
 hash = "fa74064134391b8c85d16411f1a23c593e2564d51c9c8a4a5678de7da55d9d15"
 
 [[files]]
-file = "config/config/jei/world/local/New_World__3/bookmarks.json"
+file = "config/jei/world/local/New_World__3/bookmarks.json"
 hash = "bfcbd8510282e207317fa64dafe5ff6243c18f4ea09dab81d3f4298969487a6c"
 
 [[files]]
-file = "config/config/jei/world/local/New_World__3/lookupHistory.json"
+file = "config/jei/world/local/New_World__3/lookupHistory.json"
 hash = "b3f804efb0f3bfd470deb73e8c79c23d099e8cda776a0069529f0eade299df23"
 
 [[files]]
-file = "config/config/jei/world/local/New_World__5/lookupHistory.json"
+file = "config/jei/world/local/New_World__5/lookupHistory.json"
 hash = "11cce1b640f43ec4641864b397f68ca7aa4f5f5b882cb98029df7f3cd0430721"
 
 [[files]]
-file = "config/config/jei/world/local/world/bookmarks.json"
+file = "config/jei/world/local/world/bookmarks.json"
 hash = "9cd8c4153555b9449f183a3ff9fefef936541ace513e4ef72fa698840d07ea4a"
 
 [[files]]
-file = "config/config/jei/world/local/world/lookupHistory.json"
+file = "config/jei/world/local/world/lookupHistory.json"
 hash = "a7b2f9c5c879d497040fa8d9676ad9c65be1de60b226b41a9921467cad4b9773"
 
 [[files]]
-file = "config/config/jei/world/local/world1/bookmarks.json"
+file = "config/jei/world/local/world1/bookmarks.json"
 hash = "710a3b53791cf710738750bc836f40e47dff7c9c5f32295644f6971eff9c7c75"
 
 [[files]]
-file = "config/config/jei/world/local/world1/lookupHistory.json"
+file = "config/jei/world/local/world1/lookupHistory.json"
 hash = "76b2dbcab5b77945623039d1d83f2a43e2e4c5e7ebe86284c1ac190db69db74e"
 
 [[files]]
-file = "config/config/jei/world/local/world_2026-03-22_08-23-02/bookmarks.json"
+file = "config/jei/world/local/world_2026-03-22_08-23-02/bookmarks.json"
 hash = "b13b9b7b109524d59aab9d13183290f41c4ee3b3049fd6c1df183c010298a765"
 
 [[files]]
-file = "config/config/jei/world/local/world_2026-03-22_08-23-02/lookupHistory.json"
+file = "config/jei/world/local/world_2026-03-22_08-23-02/lookupHistory.json"
 hash = "207022d135ae0a18f4fe19c7739bf451b7169808ef033abe87c6309fd0e97595"
 
 [[files]]
-file = "config/config/jei/world/server/Makeshift_164a54cd/bookmarks.json"
+file = "config/jei/world/server/Makeshift_164a54cd/bookmarks.json"
 hash = "6095cc5caf5dcf95396c1166a05c0964b80edebac02441edf80299d8db096391"
 
 [[files]]
-file = "config/config/jei/world/server/Makeshift_164a54cd/lookupHistory.json"
+file = "config/jei/world/server/Makeshift_164a54cd/lookupHistory.json"
 hash = "074e877011d3865e70172fa9f51adc15dfb60ec44182a499413b02291a3e7302"
 
 [[files]]
-file = "config/config/jei/world/server/Minecraft_Server_164a54cd/bookmarks.json"
+file = "config/jei/world/server/Minecraft_Server_164a54cd/bookmarks.json"
 hash = "b25f1b3159ef270e5b65a9699e3f2ecf58b4abf25a8bd06e3e49bf848dc15501"
 
 [[files]]
-file = "config/config/jei/world/server/Minecraft_Server_164a54cd/lookupHistory.json"
+file = "config/jei/world/server/Minecraft_Server_164a54cd/lookupHistory.json"
 hash = "d419e7ac68c18c0088c2189f55e772a6eb279e695b2183798d530b10944359db"
 
 [[files]]
-file = "config/config/konkrete/locals/de_de.local"
+file = "config/konkrete/locals/de_de.local"
 hash = "79a34cfd15c2d9c06498dc221be79279507d9b57666cd44f8d2c2cf95d3582ef"
 
 [[files]]
-file = "config/config/konkrete/locals/en_us.local"
+file = "config/konkrete/locals/en_us.local"
 hash = "fdf1864fd049b3f1b9af1f8db6c5125a627be7d06a451c778da3329843d3c39a"
 
 [[files]]
-file = "config/config/konkrete/locals/pl_pl.local"
+file = "config/konkrete/locals/pl_pl.local"
 hash = "d38a7776e362e4de6082078d803c1c9358d9d40526edfe4bdfd29c552aef76d8"
 
 [[files]]
-file = "config/config/konkrete/locals/pt_br.local"
+file = "config/konkrete/locals/pt_br.local"
 hash = "dca55a2792451b31424cd5c24037141ec57cdca51955d062dd908fa9ca6a3e9c"
 
 [[files]]
-file = "config/config/litematica.json"
+file = "config/litematica.json"
 hash = "47d255b76bc56f2005eaa423bbc1df37c37bfb2b51dd5d51ca5421c65761fc51"
 
 [[files]]
-file = "config/config/litematica/litematica_37.27.225.173_27029.json"
+file = "config/litematica/litematica_37.27.225.173_27029.json"
 hash = "c5084e511824ed9f2f38764243b970bd4c7d1047c5fa450b4f4e1c6a2cf9622e"
 
 [[files]]
-file = "config/config/litematica/litematica_37.27.225.173_27029_dim_minecraft_overworld.json"
+file = "config/litematica/litematica_37.27.225.173_27029_dim_minecraft_overworld.json"
 hash = "b873a5a9d058bf9b95024f7258d6733adbeaca39b68c2986652810278df1497b"
 
 [[files]]
-file = "config/config/litematica/litematica_37.27.225.173_27029_dim_minecraft_the_nether.json"
+file = "config/litematica/litematica_37.27.225.173_27029_dim_minecraft_the_nether.json"
 hash = "e4407b97a30e69402c350e46ddcc69e0f50cf4aa53a08de57a4cc90184cefd8a"
 
 [[files]]
-file = "config/config/litematica/litematica_56b55bf2-285c-44ef-9c08-9b1d4d137886.essential-sps.json"
+file = "config/litematica/litematica_56b55bf2-285c-44ef-9c08-9b1d4d137886.essential-sps.json"
 hash = "12174fd2e7b7105aa4aa98a486df7baa470fd770ff30a731cf314c4fd571701a"
 
 [[files]]
-file = "config/config/litematica/litematica_56b55bf2-285c-44ef-9c08-9b1d4d137886.essential-sps_dim_minecraft_overworld.json"
+file = "config/litematica/litematica_56b55bf2-285c-44ef-9c08-9b1d4d137886.essential-sps_dim_minecraft_overworld.json"
 hash = "adcadb841e38244e0121845e5c11366cb7fca48d1e6518db75eb8369eb9cc582"
 
 [[files]]
-file = "config/config/litematica/litematica_Creative.json"
+file = "config/litematica/litematica_Creative.json"
 hash = "284010e7eb70a5e384af14eef2a657d3e4b95dd651bb2b397db5776b07fe159c"
 
 [[files]]
-file = "config/config/litematica/litematica_Creative_dim_minecraft_overworld.json"
+file = "config/litematica/litematica_Creative_dim_minecraft_overworld.json"
 hash = "4d344e90282f603835f1ce6316418ed650150335b9f8c838c214eb9a358f3a70"
 
 [[files]]
-file = "config/config/litematica/litematica_Crushing world.json"
+file = "config/litematica/litematica_Crushing world.json"
 hash = "284010e7eb70a5e384af14eef2a657d3e4b95dd651bb2b397db5776b07fe159c"
 
 [[files]]
-file = "config/config/litematica/litematica_Crushing world_dim_minecraft_overworld.json"
+file = "config/litematica/litematica_Crushing world_dim_minecraft_overworld.json"
 hash = "52b93b00637a5207bd4b666fc2ca6b674e486c44e602f1bb983c231a5a92da56"
 
 [[files]]
-file = "config/config/litematica/litematica_DustMoss World.json"
+file = "config/litematica/litematica_DustMoss World.json"
 hash = "c5084e511824ed9f2f38764243b970bd4c7d1047c5fa450b4f4e1c6a2cf9622e"
 
 [[files]]
-file = "config/config/litematica/litematica_DustMoss World_dim_minecraft_overworld.json"
+file = "config/litematica/litematica_DustMoss World_dim_minecraft_overworld.json"
 hash = "378e83afeb280997ceb421bca5436daf821e18e6039eef8e0b655f59f337d182"
 
 [[files]]
-file = "config/config/litematica/litematica_New World.json"
+file = "config/litematica/litematica_New World.json"
 hash = "284010e7eb70a5e384af14eef2a657d3e4b95dd651bb2b397db5776b07fe159c"
 
 [[files]]
-file = "config/config/litematica/litematica_New World_dim_minecraft_overworld.json"
+file = "config/litematica/litematica_New World_dim_minecraft_overworld.json"
 hash = "25d26b0b47038a2e2814d7473bcd3f905c47bc3f8e5087c93eaa3df28ae0794f"
 
 [[files]]
-file = "config/config/litematica/litematica_Pine tree pack by MineDesigns.json"
+file = "config/litematica/litematica_Pine tree pack by MineDesigns.json"
 hash = "c5084e511824ed9f2f38764243b970bd4c7d1047c5fa450b4f4e1c6a2cf9622e"
 
 [[files]]
-file = "config/config/litematica/litematica_Pine tree pack by MineDesigns_dim_minecraft_overworld.json"
+file = "config/litematica/litematica_Pine tree pack by MineDesigns_dim_minecraft_overworld.json"
 hash = "4b0a8c58aeaeca7d5e5228428fb607b7ec6176eef1a3e77866622bb3bae1f532"
 
 [[files]]
-file = "config/config/litematica/litematica_Thumbnail.json"
+file = "config/litematica/litematica_Thumbnail.json"
 hash = "284010e7eb70a5e384af14eef2a657d3e4b95dd651bb2b397db5776b07fe159c"
 
 [[files]]
-file = "config/config/litematica/litematica_Thumbnail_dim_minecraft_overworld.json"
+file = "config/litematica/litematica_Thumbnail_dim_minecraft_overworld.json"
 hash = "4d344e90282f603835f1ce6316418ed650150335b9f8c838c214eb9a358f3a70"
 
 [[files]]
-file = "config/config/litematica/litematica_TreePresets.json"
+file = "config/litematica/litematica_TreePresets.json"
 hash = "c5084e511824ed9f2f38764243b970bd4c7d1047c5fa450b4f4e1c6a2cf9622e"
 
 [[files]]
-file = "config/config/litematica/litematica_TreePresets_dim_minecraft_overworld.json"
+file = "config/litematica/litematica_TreePresets_dim_minecraft_overworld.json"
 hash = "4b0a8c58aeaeca7d5e5228428fb607b7ec6176eef1a3e77866622bb3bae1f532"
 
 [[files]]
-file = "config/config/litematica/litematica_multiplayer_fallback.json"
+file = "config/litematica/litematica_multiplayer_fallback.json"
 hash = "c5084e511824ed9f2f38764243b970bd4c7d1047c5fa450b4f4e1c6a2cf9622e"
 
 [[files]]
-file = "config/config/litematica/litematica_multiplayer_fallback_dim_minecraft_overworld.json"
+file = "config/litematica/litematica_multiplayer_fallback_dim_minecraft_overworld.json"
 hash = "5dbacb9a484cbaac519abb8d75cf6c02761a8502a0f1fd2e78c53fdf5eed968b"
 
 [[files]]
-file = "config/config/litematica/litematica_multiplayer_fallback_dim_minecraft_the_nether.json"
+file = "config/litematica/litematica_multiplayer_fallback_dim_minecraft_the_nether.json"
 hash = "5dbacb9a484cbaac519abb8d75cf6c02761a8502a0f1fd2e78c53fdf5eed968b"
 
 [[files]]
-file = "config/config/litematica/litematica_trains.json"
+file = "config/litematica/litematica_trains.json"
 hash = "284010e7eb70a5e384af14eef2a657d3e4b95dd651bb2b397db5776b07fe159c"
 
 [[files]]
-file = "config/config/litematica/litematica_trains_dim_minecraft_overworld.json"
+file = "config/litematica/litematica_trains_dim_minecraft_overworld.json"
 hash = "2719218333059cc8b39b7b673efad24040192e5fa04dfc12a5bbdcc3f1928287"
 
 [[files]]
-file = "config/config/litematica/litematica_video test.json"
+file = "config/litematica/litematica_video test.json"
 hash = "284010e7eb70a5e384af14eef2a657d3e4b95dd651bb2b397db5776b07fe159c"
 
 [[files]]
-file = "config/config/litematica/litematica_video test_dim_minecraft_overworld.json"
+file = "config/litematica/litematica_video test_dim_minecraft_overworld.json"
 hash = "52b93b00637a5207bd4b666fc2ca6b674e486c44e602f1bb983c231a5a92da56"
 
 [[files]]
-file = "config/config/litematica/litematica_world.json"
+file = "config/litematica/litematica_world.json"
 hash = "bd71692d53fd588d9682efd14a902578f55e36fbef673ae10861c8e0fb3e4892"
 
 [[files]]
-file = "config/config/litematica/litematica_world_dim_minecraft_overworld.json"
+file = "config/litematica/litematica_world_dim_minecraft_overworld.json"
 hash = "4a998b8a0a44879ffdf69a641b62abe6f439f96b4f43dffd1bcc3a92c54d1882"
 
 [[files]]
-file = "config/config/litematica/litematica_world_dim_minecraft_the_nether.json"
+file = "config/litematica/litematica_world_dim_minecraft_the_nether.json"
 hash = "5306dbff6a6eeecf370002ff84e56537ef6724828b54cd2128ad6d64a94359a0"
 
 [[files]]
-file = "config/config/litematica/material_list_2025-12-12_21.06.50.txt"
+file = "config/litematica/material_list_2025-12-12_21.06.50.txt"
 hash = "d4cd09046c1644dbd4e17f9860a593e2cd969a163dcafa1cc17399f22d554b47"
 
 [[files]]
-file = "config/config/litematica/material_list_2026-05-10_20.47.37.txt"
+file = "config/litematica/material_list_2026-05-10_20.47.37.txt"
 hash = "31fc871b74e5a1e70a16a5668fbd48319eabb7844f664097bb3f206f15ed58ac"
 
 [[files]]
-file = "config/config/litematica/material_list_2026-05-10_21.02.53.txt"
+file = "config/litematica/material_list_2026-05-10_21.02.53.txt"
 hash = "bbd779c05e11db5a37f2b0a3319b40bd120d5f3150b9f779a1590a5b4b9315c8"
 
 [[files]]
-file = "config/config/litematica/material_list_2026-05-10_21.05.16.csv"
+file = "config/litematica/material_list_2026-05-10_21.05.16.csv"
 hash = "7ea5ba30218098dd2e421cb889a1f976ac3c1746c7a5c7fe059e2fd698ba5d4b"
 
 [[files]]
-file = "config/config/lithium.properties"
+file = "config/lithium.properties"
 hash = "6cf6f83720071fd1657c8e79b357caf68d40f410ae123e5f922483eb1d1d25be"
 
 [[files]]
-file = "config/config/lithostitched.json"
+file = "config/lithostitched.json"
 hash = "d8a63933ec4757186a594debea59dd35724a0a895fe601b324f96217c28312df"
 
 [[files]]
-file = "config/config/lootr-client.toml"
+file = "config/lootr-client.toml"
 hash = "4da5bc00c2cc7db774e16f6905929303bfca802367d49133ba9742a6330238ad"
 
 [[files]]
-file = "config/config/lootr-common.toml"
+file = "config/lootr-common.toml"
 hash = "687ca39357294fa736e41f38b6bfecc6fd4b59e4735a6bfa2b6a49f1e20c9346"
 
 [[files]]
-file = "config/config/luminax-client.toml"
+file = "config/luminax-client.toml"
 hash = "896375cfd68e7cc8f4be91011d6563638281bcbea5ea0bb44a4e2275932b9e42"
 
 [[files]]
-file = "config/config/malilib.json"
+file = "config/malilib.json"
 hash = "d375c3c93c77e4b9b871477009c2ab6a3564470e839597ee2cf5a0a5218eb9e0"
 
 [[files]]
-file = "config/config/measurements-client.toml"
+file = "config/measurements-client.toml"
 hash = "c62c112c58ad1891f58418fea13dbcd94b5669d74c2a32efef6bbfb1a1f5b6b0"
 
 [[files]]
-file = "config/config/mechtrowel-client.toml"
+file = "config/mechtrowel-client.toml"
 hash = "4c4c109affafc6f7f0efc06d424e2456d51f97a51ddef7ccbee9b4d480e08f73"
 
 [[files]]
-file = "config/config/mechtrowel-common.toml"
+file = "config/mechtrowel-common.toml"
 hash = "02f9f0d557a2c41c4a407816ee65a32d89fd8fdf4172762688e29331986585f7"
 
 [[files]]
-file = "config/config/midnightlib.json"
+file = "config/midnightlib.json"
 hash = "b14c45c6447f9ee5474d70784a2ef96731abbeca1e92485b7599e76e9dce1444"
 
 [[files]]
-file = "config/config/minecraft-cursor.json"
+file = "config/minecraft-cursor.json"
 hash = "04625b8886669dfe1ca43218cf3733d97b9203df0d5e15f67d336e1256c7fb21"
 
 [[files]]
-file = "config/config/minihud.json"
+file = "config/minihud.json"
 hash = "7506a3cfd9455544ab01ae7f6d347c4e2037bc4750e875fe12806ca50c983921"
 
 [[files]]
-file = "config/config/minihud/37.27.225.173_27029.json"
+file = "config/minihud/37.27.225.173_27029.json"
 hash = "92dde437e88be9b9efa176f7e600207b8f00953ddca11ff7f77409584bcc0ced"
 
 [[files]]
-file = "config/config/minihud/37.27.225.173_27029_dim_minecraft_overworld.json"
+file = "config/minihud/37.27.225.173_27029_dim_minecraft_overworld.json"
 hash = "dd81d0abfde5de7a306ad024b0e6dc984435eb7f14502199cff365a767dbfb2c"
 
 [[files]]
-file = "config/config/minihud/37.27.225.173_27029_dim_minecraft_the_nether.json"
+file = "config/minihud/37.27.225.173_27029_dim_minecraft_the_nether.json"
 hash = "dd81d0abfde5de7a306ad024b0e6dc984435eb7f14502199cff365a767dbfb2c"
 
 [[files]]
-file = "config/config/minihud/56b55bf2-285c-44ef-9c08-9b1d4d137886.essential-sps.json"
+file = "config/minihud/56b55bf2-285c-44ef-9c08-9b1d4d137886.essential-sps.json"
 hash = "92dde437e88be9b9efa176f7e600207b8f00953ddca11ff7f77409584bcc0ced"
 
 [[files]]
-file = "config/config/minihud/56b55bf2-285c-44ef-9c08-9b1d4d137886.essential-sps_dim_minecraft_overworld.json"
+file = "config/minihud/56b55bf2-285c-44ef-9c08-9b1d4d137886.essential-sps_dim_minecraft_overworld.json"
 hash = "dd81d0abfde5de7a306ad024b0e6dc984435eb7f14502199cff365a767dbfb2c"
 
 [[files]]
-file = "config/config/minihud/Creative.json"
+file = "config/minihud/Creative.json"
 hash = "f1f4cc8245522d237976851d03e29a46e2a12a6991a65dbd2ce6afccf2d6ed29"
 
 [[files]]
-file = "config/config/minihud/Creative_dim_minecraft_overworld.json"
+file = "config/minihud/Creative_dim_minecraft_overworld.json"
 hash = "dd81d0abfde5de7a306ad024b0e6dc984435eb7f14502199cff365a767dbfb2c"
 
 [[files]]
-file = "config/config/minihud/Crushing world.json"
+file = "config/minihud/Crushing world.json"
 hash = "ada3451415909fc2d0833a8c6b364bb8ea750fbf0cd017077558d2bb20e74c3d"
 
 [[files]]
-file = "config/config/minihud/Crushing world_dim_minecraft_overworld.json"
+file = "config/minihud/Crushing world_dim_minecraft_overworld.json"
 hash = "dd81d0abfde5de7a306ad024b0e6dc984435eb7f14502199cff365a767dbfb2c"
 
 [[files]]
-file = "config/config/minihud/DustMoss World.json"
+file = "config/minihud/DustMoss World.json"
 hash = "256a6308d2292206b2ea3c76b5d79e0c19bc04e2cddaa5783fbb54953589d8d3"
 
 [[files]]
-file = "config/config/minihud/DustMoss World_dim_minecraft_overworld.json"
+file = "config/minihud/DustMoss World_dim_minecraft_overworld.json"
 hash = "dd81d0abfde5de7a306ad024b0e6dc984435eb7f14502199cff365a767dbfb2c"
 
 [[files]]
-file = "config/config/minihud/New World.json"
+file = "config/minihud/New World.json"
 hash = "cd97aeeebe3d7bc7dbfbb047f09564d7be19a118f8dc5211c308bc91f39284d6"
 
 [[files]]
-file = "config/config/minihud/New World_dim_minecraft_overworld.json"
+file = "config/minihud/New World_dim_minecraft_overworld.json"
 hash = "dd81d0abfde5de7a306ad024b0e6dc984435eb7f14502199cff365a767dbfb2c"
 
 [[files]]
-file = "config/config/minihud/Pine tree pack by MineDesigns.json"
+file = "config/minihud/Pine tree pack by MineDesigns.json"
 hash = "2b303c7328e22f0da15a1bc0b397d8ba95dbae8726ffd4560a68af56a8b78d90"
 
 [[files]]
-file = "config/config/minihud/Pine tree pack by MineDesigns_dim_minecraft_overworld.json"
+file = "config/minihud/Pine tree pack by MineDesigns_dim_minecraft_overworld.json"
 hash = "dd81d0abfde5de7a306ad024b0e6dc984435eb7f14502199cff365a767dbfb2c"
 
 [[files]]
-file = "config/config/minihud/Thumbnail.json"
+file = "config/minihud/Thumbnail.json"
 hash = "f1f4cc8245522d237976851d03e29a46e2a12a6991a65dbd2ce6afccf2d6ed29"
 
 [[files]]
-file = "config/config/minihud/Thumbnail_dim_minecraft_overworld.json"
+file = "config/minihud/Thumbnail_dim_minecraft_overworld.json"
 hash = "dd81d0abfde5de7a306ad024b0e6dc984435eb7f14502199cff365a767dbfb2c"
 
 [[files]]
-file = "config/config/minihud/TreePresets.json"
+file = "config/minihud/TreePresets.json"
 hash = "70890ab2ca8616cc1eafcf6b184aeb46ab856b54b36482b9ee49093d263783dc"
 
 [[files]]
-file = "config/config/minihud/TreePresets_dim_minecraft_overworld.json"
+file = "config/minihud/TreePresets_dim_minecraft_overworld.json"
 hash = "dd81d0abfde5de7a306ad024b0e6dc984435eb7f14502199cff365a767dbfb2c"
 
 [[files]]
-file = "config/config/minihud/multiplayer_fallback.json"
+file = "config/minihud/multiplayer_fallback.json"
 hash = "f1f4cc8245522d237976851d03e29a46e2a12a6991a65dbd2ce6afccf2d6ed29"
 
 [[files]]
-file = "config/config/minihud/multiplayer_fallback_dim_minecraft_overworld.json"
+file = "config/minihud/multiplayer_fallback_dim_minecraft_overworld.json"
 hash = "dd81d0abfde5de7a306ad024b0e6dc984435eb7f14502199cff365a767dbfb2c"
 
 [[files]]
-file = "config/config/minihud/multiplayer_fallback_dim_minecraft_the_nether.json"
+file = "config/minihud/multiplayer_fallback_dim_minecraft_the_nether.json"
 hash = "dd81d0abfde5de7a306ad024b0e6dc984435eb7f14502199cff365a767dbfb2c"
 
 [[files]]
-file = "config/config/minihud/trains.json"
+file = "config/minihud/trains.json"
 hash = "16a993474ba7f2d8639886ed78607461ad213a7d989880c6e4a57d1fe0f46579"
 
 [[files]]
-file = "config/config/minihud/trains_dim_minecraft_overworld.json"
+file = "config/minihud/trains_dim_minecraft_overworld.json"
 hash = "dd81d0abfde5de7a306ad024b0e6dc984435eb7f14502199cff365a767dbfb2c"
 
 [[files]]
-file = "config/config/minihud/video test.json"
+file = "config/minihud/video test.json"
 hash = "338dd9b938e084217fcc51b59ed6bb7d14b9bb9dd3135d9f17125b0c3e9023a9"
 
 [[files]]
-file = "config/config/minihud/video test_dim_minecraft_overworld.json"
+file = "config/minihud/video test_dim_minecraft_overworld.json"
 hash = "dd81d0abfde5de7a306ad024b0e6dc984435eb7f14502199cff365a767dbfb2c"
 
 [[files]]
-file = "config/config/minihud/world.json"
+file = "config/minihud/world.json"
 hash = "f1f4cc8245522d237976851d03e29a46e2a12a6991a65dbd2ce6afccf2d6ed29"
 
 [[files]]
-file = "config/config/minihud/world_dim_minecraft_overworld.json"
+file = "config/minihud/world_dim_minecraft_overworld.json"
 hash = "dd81d0abfde5de7a306ad024b0e6dc984435eb7f14502199cff365a767dbfb2c"
 
 [[files]]
-file = "config/config/minihud/world_dim_minecraft_the_nether.json"
+file = "config/minihud/world_dim_minecraft_the_nether.json"
 hash = "dd81d0abfde5de7a306ad024b0e6dc984435eb7f14502199cff365a767dbfb2c"
 
 [[files]]
-file = "config/config/mod_menu-client.toml"
+file = "config/mod_menu-client.toml"
 hash = "f7b5aa1a9acfd9a8d0b029da7532796bf8dd041d8fa781fabbbcfb1b777161ca"
 
 [[files]]
-file = "config/config/modernfix-common.toml"
+file = "config/modernfix-common.toml"
 hash = "72ca2bcea2a9946a3a54842f14eff6f7b47d8fc96ef497c1b56406643b153fd7"
 
 [[files]]
-file = "config/config/modernfix-mixins.properties"
+file = "config/modernfix-mixins.properties"
 hash = "32bbaa6f573b612b92653fc2814365cd8aa423d39fcab4fa5dcfcb5f31121874"
 
 [[files]]
-file = "config/config/moonlight-client.toml"
+file = "config/moonlight-client.toml"
 hash = "019862421c02c0362e2bb02766f08d37571a6d21d25dff883e3916800394c8b2"
 
 [[files]]
-file = "config/config/moonlight-common.toml"
+file = "config/moonlight-common.toml"
 hash = "3ea5d26a74b15b7442a0ccc656a5a65d5801962edf619242152c4dfaa75e6d6e"
 
 [[files]]
-file = "config/config/moreculling.toml"
+file = "config/moreculling.toml"
 hash = "db63bd41fae1b92828f13b34b93215549ca167ccf44a4c09d050fe559fa203a5"
 
 [[files]]
-file = "config/config/neoforge-client.toml"
+file = "config/neoforge-client.toml"
 hash = "d58d93e2c429410d0abf25507d1679f732e1023b03bb52414348efcf5cf3ddb0"
 
 [[files]]
-file = "config/config/neoforge-common.toml"
+file = "config/neoforge-common.toml"
 hash = "fe878a2717a145cd890621eac5b3be1e1fd656f7ff9abc6e8d53f670d37474c4"
 
 [[files]]
-file = "config/config/neoforge-server.toml"
+file = "config/neoforge-server.toml"
 hash = "b1e3b38d612295f8d9dfa0fbdb538a992b7a1a3b7a766c491b4e9fdf3823396f"
 
 [[files]]
-file = "config/config/notebook.json"
+file = "config/notebook.json"
 hash = "cb9a7fdcf20f5b7f9f86e6be0d2e7c324eab462dadcbbe8e5f4271a47708ee3d"
 
 [[files]]
-file = "config/config/observable.json"
+file = "config/observable.json"
 hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
 
 [[files]]
-file = "config/config/oculus.properties"
+file = "config/oculus.properties"
 hash = "5b8e2f52d63c0c7157fa79cabaf5cb50e6c1eb4b4560ea25dd3906f8f4150022"
 
 [[files]]
-file = "config/config/openpartiesandclaims-server.toml"
+file = "config/openpartiesandclaims-server.toml"
 hash = "32356ab2d758c1b1e86d5c8a8976aba673358af7eaa07872cb3c1427a50247ff"
 
 [[files]]
-file = "config/config/overflowingbars-client.toml"
+file = "config/overflowingbars-client.toml"
 hash = "f32cb54a99b0f143fe0db5b5664a8df7bff668c8d4291267f2ce8873da7f4439"
 
 [[files]]
-file = "config/config/particlerain.json"
+file = "config/particlerain.json"
 hash = "417f2b20e1243a1ec2f8bea4e558f43b66182f446ecdb3f29a33b015b882f752"
 
 [[files]]
-file = "config/config/peek/peek.properties"
+file = "config/peek/peek.properties"
 hash = "d2d99af97dfcd19b044def372599c4fd1f8ca9a10d36ac0ac42a44cff00e6007"
 
 [[files]]
-file = "config/config/pipeorgans-client.toml"
+file = "config/pipeorgans-client.toml"
 hash = "d097195a20c1479091dd87d2c71f1b3bbe4a0fd5c4606171b37e52f18f2e56ba"
 
 [[files]]
-file = "config/config/pipeorgans-server.toml"
+file = "config/pipeorgans-server.toml"
 hash = "8b62d4a3a9310c058521d58987e892026270478d7e63ea214d98a6b72f2722b4"
 
 [[files]]
-file = "config/config/platform-client.toml"
+file = "config/platform-client.toml"
 hash = "127580e6a7872bc97b55280e53f0a11bce8a655b8fe2ded66a88ecde8389bab1"
 
 [[files]]
-file = "config/config/ponder-client.toml"
+file = "config/ponder-client.toml"
 hash = "f7892742494899f3d7169cbefd1969c7030f1555bfc277e0a0a8fc6b9160b053"
 
 [[files]]
-file = "config/config/presencefootsteps/updater.json"
+file = "config/presencefootsteps/updater.json"
 hash = "1e7c61df09c105e1eeca8cf3dcbdfeb976700e9904bcb3983fc7791adb7fad2e"
 
 [[files]]
-file = "config/config/presencefootsteps/userconfig.json"
+file = "config/presencefootsteps/userconfig.json"
 hash = "57c0666869941c45540f8fa6fd17b8e969ddb978ed88a4428267ab21d4305724"
 
 [[files]]
-file = "config/config/railways-client.toml"
+file = "config/railways-client.toml"
 hash = "3050e460327f400654d8853f26e267e7c47d28312a42262985764b29998a5676"
 
 [[files]]
-file = "config/config/railways-common.toml"
+file = "config/railways-common.toml"
 hash = "cb0af90a705f48886a1c4ec970dfeb70e91d6961f561b5f1d5a31f5e0cc1edd5"
 
 [[files]]
-file = "config/config/railways-server.toml"
+file = "config/railways-server.toml"
 hash = "01d1370950239d1a78d2b166652e0ad7dce25d9e89e46565edc3021bec71e206"
 
 [[files]]
-file = "config/config/redstf-client.toml"
+file = "config/redstf-client.toml"
 hash = "310b0d1e76805d95103f0053e13c0356ea233082e1565fb510c3e65b18072f30"
 
 [[files]]
-file = "config/config/redstf-common.toml"
+file = "config/redstf-common.toml"
 hash = "f949999e1cadab7374642e50bfe1dffa61a37b58c59c5fd22dcccebe1cd29ff2"
 
 [[files]]
-file = "config/config/replaymod-rendersettings.json"
+file = "config/replaymod-rendersettings.json"
 hash = "dc5ea63097ba663d85bb2dabaac0a2c0138c28ab9ff06a9f7d636043aaca3c86"
 
 [[files]]
-file = "config/config/replaymod.json"
+file = "config/replaymod.json"
 hash = "aa38e5763b6261ab422a5b3c60be9fd51619efd8d9a8b32bb52c9403800f1adf"
 
 [[files]]
-file = "config/config/shuffle.json"
+file = "config/shuffle.json"
 hash = "2886a218f9ca1a3eafa04e20e2eaaa7b6211b43da86728e37dbb80cacacef0ea"
 
 [[files]]
-file = "config/config/simplebackups-common-experimental.toml"
+file = "config/simplebackups-common-experimental.toml"
 hash = "4e7ff94966f5694fc27eefa40b9ac44da666b7c335b465a2255b4b9ecdd0e15b"
 
 [[files]]
-file = "config/config/simplebackups-common.toml"
+file = "config/simplebackups-common.toml"
 hash = "00f555f8f391a75b5733f2173c23ed5ae29b038512b0c61bbe2a2135d5c37084"
 
 [[files]]
-file = "config/config/simplebackups-server.toml"
+file = "config/simplebackups-server.toml"
 hash = "fb5ea0772bce767c93b7024027f87ad4461c46422f323cf8530fb09e4d32b174"
 
 [[files]]
-file = "config/config/simplefog.json"
+file = "config/simplefog.json"
 hash = "89ec5d68748955fcb62cbd8172a572afc109d2f19c2cff303bd33c92c5c55084"
 
 [[files]]
-file = "config/config/skinlayers.json"
+file = "config/skinlayers.json"
 hash = "0ed9d8d0430341b8a902951c46cc5480eeedbc66343a6b390e8e0f6f4ab773eb"
 
 [[files]]
-file = "config/config/sliceanddice-client.toml"
+file = "config/sliceanddice-client.toml"
 hash = "3a5b0f383352483c0afb34cad7800ab7757b70d0028e6edbdb4c67b1762b829d"
 
 [[files]]
-file = "config/config/sliceanddice-common.toml"
+file = "config/sliceanddice-common.toml"
 hash = "8c17330d9f9804cd1540b0f442c7f7b7d1dbd3ccb3e22f6c4af222753ffd49ac"
 
 [[files]]
-file = "config/config/sodium-extra-options.json"
+file = "config/sodium-extra-options.json"
 hash = "a17210d748e1dfbafef8ad276f052fccb7e6ed68c4063311ff102655ce422e75"
 
 [[files]]
-file = "config/config/sodium-extra.properties"
+file = "config/sodium-extra.properties"
 hash = "a2f1b47c1eaa119ab34727f1d43c2506cb3d7f17ba8fb4efb49e20c8e0b58e70"
 
 [[files]]
-file = "config/config/sodium-fingerprint.json"
+file = "config/sodium-fingerprint.json"
 hash = "a02b81880c698e649ecc4469cb159195bd8f1660ab1fd61185deb1f74c2bc28c"
 
 [[files]]
-file = "config/config/sodium-mixins.properties"
+file = "config/sodium-mixins.properties"
 hash = "b627c4456e6fa0bc4b5f85e2f1cd949faedae3cb9afdaf2a5f52e6f3b6ae1f01"
 
 [[files]]
-file = "config/config/sodium-options.json"
+file = "config/sodium-options.json"
 hash = "a12b132f469172e3cd58b5bf867abd18e36d67d035de69e2c13cc5c0e5960a9a"
 
 [[files]]
-file = "config/config/sodium-shadowy-path-blocks-options.json"
+file = "config/sodium-shadowy-path-blocks-options.json"
 hash = "25baba4e198fbefd6656a38dcf0cdc3e7ccef211221b4f5218d22a778d1853fa"
 
 [[files]]
-file = "config/config/sodiumdynamiclights-client.toml"
+file = "config/sodiumdynamiclights-client.toml"
 hash = "9cb3a4ee232f4be0609bb4bafcdfa7791875b9d6b9b9ed6984a3732426522972"
 
 [[files]]
-file = "config/config/sort_it_out/client_preferences.json5"
+file = "config/sort_it_out/client_preferences.json5"
 hash = "20fbf657e6f01379eb2b16d7314384d0130f8bcdfe096dbb1acb08662256b74f"
 
 [[files]]
-file = "config/config/spark/config.json"
+file = "config/spark/config.json"
 hash = "992ba9f3a4a7ce3de112eb95575328956fdc3ce6781c455ebce7b23db7e7da42"
 
 [[files]]
-file = "config/config/spark/tmp-client/about.txt"
+file = "config/spark/tmp-client/about.txt"
 hash = "d7514c0ddb6ae8611a281527bf04ca6cbcea1fa21758534fdcd08ed0f51c19c0"
 
 [[files]]
-file = "config/config/spark/tmp/about.txt"
+file = "config/spark/tmp/about.txt"
 hash = "d7514c0ddb6ae8611a281527bf04ca6cbcea1fa21758534fdcd08ed0f51c19c0"
 
 [[files]]
-file = "config/config/status/state-client.properties"
+file = "config/status/state-client.properties"
 hash = "45289be43651eca90e0c8befe807ce17f50df96cabd0a60718929602ae723301"
 
 [[files]]
-file = "config/config/status/status-server.properties"
+file = "config/status/status-server.properties"
 hash = "4ddbe6e76e0c680c41bc8cf5449d789273dd617a54a20c300bc875f59d8857cb"
 
 [[files]]
-file = "config/config/supplementaries-client.toml"
+file = "config/supplementaries-client.toml"
 hash = "4387d02dacfa067379fdbf5d6e6b4238176bd26bd1db104700269db499ff7f96"
 
 [[files]]
-file = "config/config/supplementaries-common.toml"
+file = "config/supplementaries-common.toml"
 hash = "c74254724ff00b0ad909eb2422aebc3172dfb9de94e39ac2bbcd571be7aacc25"
 
 [[files]]
-file = "config/config/tectonic.json"
+file = "config/tectonic.json"
 hash = "fe51e529faafe17609b060f25d2cd87c0db5571c98e306a09f9335d4b54546fa"
 
 [[files]]
-file = "config/config/trade_cycling-client.toml"
+file = "config/trade_cycling-client.toml"
 hash = "b1f7ad749bc197d88af203010ef49252a3492ccf13ca80020eb8a76d5740b590"
 
 [[files]]
-file = "config/config/transition.json"
+file = "config/transition.json"
 hash = "6c0060c7301372bbc414f86a139b383e34fb620f0621badd71bb19efc3f26767"
 
 [[files]]
-file = "config/config/trender.json"
+file = "config/trender.json"
 hash = "0a282f3623f7f9443a1d10b5768865f69e58b74e000dcfb4f40399626b7a6124"
 
 [[files]]
-file = "config/config/tweakeroo.json"
+file = "config/tweakeroo.json"
 hash = "7f1db90ffa8f65783551b85285e81fa8e6a2235c4a47104460fd74c56d147363"
 
 [[files]]
-file = "config/config/vanillabackport-client.toml"
+file = "config/vanillabackport-client.toml"
 hash = "52908e6b607acb0132818d29fd7c2fcaf02dbc8b743c509400db8f65f1e00eb1"
 
 [[files]]
-file = "config/config/vanillabackport-common.toml"
+file = "config/vanillabackport-common.toml"
 hash = "b55cc1ea0ce1b20035a5ced9ae25b667c01b318ba58ffcfda559bd4c6a5983d7"
 
 [[files]]
-file = "config/config/vanillin-client.toml"
+file = "config/vanillin-client.toml"
 hash = "2170ababb3485263fc460249d9b6bfcabbc0d14772d010f775db0fc0371fd73b"
 
 [[files]]
-file = "config/config/voicechat/category-volumes.properties"
+file = "config/voicechat/category-volumes.properties"
 hash = "94c1c4f70e5b995fbd71e86d4fa646030437fecae0685875b560a55fbd0d0e56"
 
 [[files]]
-file = "config/config/voicechat/player-volumes.properties"
+file = "config/voicechat/player-volumes.properties"
 hash = "8134f1a5273c146bd025bd3406d15b6163258aa3cfbc7ac696aa7867a397e49e"
 
 [[files]]
-file = "config/config/voicechat/translations.properties"
+file = "config/voicechat/translations.properties"
 hash = "693643b1d393cbb3ea7f062afc4474fcd66e4036c4f8d7c056434979cbf512d1"
 
 [[files]]
-file = "config/config/voicechat/username-cache.json"
+file = "config/voicechat/username-cache.json"
 hash = "1958e6cacea773820e0c31f20b2a68f487028b5af0e38289a8d98f9f1ff19120"
 
 [[files]]
-file = "config/config/voicechat/voicechat-client.properties"
+file = "config/voicechat/voicechat-client.properties"
 hash = "80a65d36817e9f74fd5c5f539d5471768af364610974d26cd387bc1a216a7cdd"
 
 [[files]]
-file = "config/config/voicechat/voicechat-server.properties"
+file = "config/voicechat/voicechat-server.properties"
 hash = "05a8a601996936e1d56d7af4b68c136d11ea45d70706372d05cd46d4f30c500e"
 
 [[files]]
-file = "config/config/voicechat/voicechat-volumes.properties"
+file = "config/voicechat/voicechat-volumes.properties"
 hash = "58242ef3075b166845e0081281b01113a55b9d095104a68b167e7b4bc08b87c5"
 
 [[files]]
-file = "config/config/xaero/lib/client.cfg"
+file = "config/xaero/lib/client.cfg"
 hash = "43ed9dbfa5b4d6f0f3d2e8c2ced17ad298164b22c68ff11d415257a39b074336"
 
 [[files]]
-file = "config/config/xaero/lib/common.cfg"
+file = "config/xaero/lib/common.cfg"
 hash = "98f698d96a6d21d830a455b4ad045b70516fa63c298021742d8499e7f0366cd2"
 
 [[files]]
-file = "config/config/xaero/lib/profiles/default.cfg"
+file = "config/xaero/lib/profiles/default.cfg"
 hash = "34ae854b17d896d7cb853bdc28c27231a3947e91cb9f0991f372846ee3c2a907"
 
 [[files]]
-file = "config/config/xaero/lib/server_profiles/default.cfg"
+file = "config/xaero/lib/server_profiles/default.cfg"
 hash = "d438aea41ca41e93697e059f523686935c0add482f6abe96b532bbf10c6ed80a"
 
 [[files]]
-file = "config/config/xaero/minimap/client.cfg"
+file = "config/xaero/minimap/client.cfg"
 hash = "c0915eff5d1a7905cd1038d646eb9086fd1a29e2f637d53535e4da161de17b9f"
 
 [[files]]
-file = "config/config/xaero/minimap/common.cfg"
+file = "config/xaero/minimap/common.cfg"
 hash = "2b49df024c03a369c62a303c72755e7fedeb4f4653ff53a12fd37bd83ccd4ed0"
 
 [[files]]
-file = "config/config/xaero/minimap/default_radar_categories_client.json"
+file = "config/xaero/minimap/default_radar_categories_client.json"
 hash = "b8ddf54611a9ab8c53177fc0d062321e9e731192b65b9e50d0fcb38a86a91696"
 
 [[files]]
-file = "config/config/xaero/minimap/default_radar_categories_server.json"
+file = "config/xaero/minimap/default_radar_categories_server.json"
 hash = "a4c652cafa7dea324e5f5cf3b1df46a84e54b6d4f877195857bce55a559c1cfd"
 
 [[files]]
-file = "config/config/xaero/minimap/profiles/default.cfg"
+file = "config/xaero/minimap/profiles/default.cfg"
 hash = "43d7b01a8710687554de4935be83bb6f412a0e1b74638c945d5f2eb67dfb20c5"
 
 [[files]]
-file = "config/config/xaero/minimap/profiles/default.cfg.temp.backup0"
+file = "config/xaero/minimap/profiles/default.cfg.temp.backup0"
 hash = "43d7b01a8710687554de4935be83bb6f412a0e1b74638c945d5f2eb67dfb20c5"
 
 [[files]]
-file = "config/config/xaero/minimap/profiles/entity_radar_categories/default.cfg.json"
+file = "config/xaero/minimap/profiles/entity_radar_categories/default.cfg.json"
 hash = "8ec85ecdff2a7b60389a80cbffa420876fcf83b3a72120e3564076da50dc3fca"
 
 [[files]]
-file = "config/config/xaero/minimap/profiles/info_display_config/default.cfg.txt"
+file = "config/xaero/minimap/profiles/info_display_config/default.cfg.txt"
 hash = "184e654fa1fc8ad09943c97c4e65ab78acb5b3cfca22417a831513d1b6d9bbc6"
 
 [[files]]
-file = "config/config/xaero/minimap/server_profiles/default.cfg"
+file = "config/xaero/minimap/server_profiles/default.cfg"
 hash = "d438aea41ca41e93697e059f523686935c0add482f6abe96b532bbf10c6ed80a"
 
 [[files]]
-file = "config/config/xaero/world-map/client.cfg"
+file = "config/xaero/world-map/client.cfg"
 hash = "201e49f557c160a48657d8df3aa25830cb68b1316735f69f3564e78223e3317a"
 
 [[files]]
-file = "config/config/xaero/world-map/common.cfg"
+file = "config/xaero/world-map/common.cfg"
 hash = "0c229eb0daf85bd09af51f21eeeb99497a3bd50a825d5ab1ca695fb21bf6cf9d"
 
 [[files]]
-file = "config/config/xaero/world-map/profiles/default.cfg"
+file = "config/xaero/world-map/profiles/default.cfg"
 hash = "7b24c882801bcc7f0a8aedc625d419f661fa490fa0e9d5ebe39599a1ce2dcbd5"
 
 [[files]]
-file = "config/config/xaero/world-map/server_profiles/default.cfg"
+file = "config/xaero/world-map/server_profiles/default.cfg"
 hash = "d438aea41ca41e93697e059f523686935c0add482f6abe96b532bbf10c6ed80a"
 
 [[files]]
-file = "config/config/xaerohud.txt"
+file = "config/xaerohud.txt"
 hash = "58c9270f258d0b224bb7d0f7c927544d5fbe5f1b8027c820e1e14ecbf48fb88c"
 
 [[files]]
-file = "config/config/xaerominimap-common.txt.backup0"
+file = "config/xaerominimap-common.txt.backup0"
 hash = "771a844d13ab6c2ff99f14b8fd912d02c55a1a4104361692b740c3e596084f6f"
 
 [[files]]
-file = "config/config/xaeropatreon.txt"
+file = "config/xaeropatreon.txt"
 hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
-file = "config/config/xaeroworldmap-common.txt.backup0"
+file = "config/xaeroworldmap-common.txt.backup0"
 hash = "f02ca95d7246bd4b9c7de895c46108fff42fd5fcf9d56816b7bdba821597b58f"
 
 [[files]]
-file = "config/config/xaeroworldmap.txt"
+file = "config/xaeroworldmap.txt"
 hash = "6028733f967d0d0f6a80dd236d3dcc7d2446912c719ab9a7d3f83d8624d9b92d"
 
 [[files]]
-file = "config/config/yacl.json5"
+file = "config/yacl.json5"
 hash = "121b93764159be6fb7dab523b29a844e2bb78400ce8c48f52135a097e9b0006e"
 
 [[files]]
