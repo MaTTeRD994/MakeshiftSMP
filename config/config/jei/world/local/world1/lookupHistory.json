@@ -1,0 +1,5 @@
+[
+  {"version":1},
+  {"ingredient":{"id":"immersive_paintings:glow_painting"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"createdeco:copper_catwalk_stairs"},"type":"item_stack","bookmarkType":"INGREDIENT"}
+]

@@ -1,0 +1,44 @@
+{
+  "selections": {
+    "mode": "SIMPLE"
+  },
+  "placements": {},
+  "schematic_projects_manager": {},
+  "operation_mode": "AREA_SELECTION",
+  "render_range": {
+    "mode": "SINGLE_LAYER",
+    "axis": "Y",
+    "layer_single": 82,
+    "layer_above": 0,
+    "layer_below": 0,
+    "layer_range_min": 0,
+    "layer_range_max": 0,
+    "hotkey_range_min": false,
+    "hotkey_range_max": false
+  },
+  "area_simple": {
+    "name": "Train Station",
+    "current": "01",
+    "boxes": [
+      {
+        "pos1": [
+          -22,
+          -63,
+          -39
+        ],
+        "pos2": [
+          5,
+          -20,
+          -60
+        ],
+        "name": "01"
+      }
+    ]
+  },
+  "tool_mode_data": {
+    "delete": {
+      "use_placement": false
+    }
+  },
+  "block_entities": {}
+}

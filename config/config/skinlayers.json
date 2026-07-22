@@ -1,0 +1,19 @@
+{
+  "enableHat": true,
+  "enableJacket": true,
+  "enableLeftSleeve": true,
+  "enableRightSleeve": true,
+  "enableLeftPants": true,
+  "enableRightPants": true,
+  "baseVoxelSize": 1.189,
+  "bodyVoxelWidthSize": 1.1190001,
+  "headVoxelSize": 1.2040001,
+  "renderDistanceLOD": 28,
+  "enableSkulls": true,
+  "enableSkullsItems": true,
+  "skullVoxelSize": 1.1190001,
+  "fastRender": true,
+  "compatibilityMode": true,
+  "irisCompatibilityMode": true,
+  "firstPersonPixelScaling": 1.1370001
+}

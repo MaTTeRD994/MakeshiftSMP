@@ -1,0 +1,10 @@
+[
+  {"version":2},
+  {"ingredient":{"id":"mcwbridges:pliers"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"mcwbridges:iron_bridge"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"minecraft:netherite_shovel","components":{"minecraft:enchantments":{"levels":{"minecraft:unbreaking":4,"minecraft:efficiency":6,"minecraft:silk_touch":1,"minecraft:mending":1}},"minecraft:damage":154,"minecraft:custom_name":"{\"bold\":true,\"color\":\"#80C71F\",\"text\":\"Dirt Redistribution Device\"}","minecraft:custom_data":{"NameFormat":{"ModifiedName":"{\"bold\":true,\"color\":\"#80C71F\",\"text\":\"Dirt Redistribution Device\"}","merged":0}}}},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"bellsandwhistles:station_platform"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"minecraft:cyan_dye"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"minecraft:charcoal"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"create:cut_andesite"},"type":"item_stack","bookmarkType":"INGREDIENT"}
+]

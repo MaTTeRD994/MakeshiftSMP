@@ -1,0 +1,35 @@
++---------------------+-------+---------+----------------------------------+
+| Material List for schematic 'Dustmoss Cube 2x5x2 Clock' (1 of 1 regions) |
++---------------------+-------+---------+----------------------------------+
+| Item                | Total | Missing |                        Available |
++---------------------+-------+---------+----------------------------------+
+| Moss Block          |  1130 |    1130 |                                0 |
+| Smooth Stone Slab   |   678 |     678 |                                0 |
+| Smooth Stone        |   594 |     594 |                                0 |
+| Redstone Dust       |   520 |     520 |                                1 |
+| Stone               |   440 |     440 |                                0 |
+| Slime Block         |   320 |     320 |                                0 |
+| Hopper              |   300 |     300 |                                0 |
+| Composter           |   152 |     152 |                                0 |
+| Water Bucket        |    85 |      85 |                                0 |
+| Sticky Piston       |    82 |      82 |                                1 |
+| Scaffolding         |    72 |      72 |                                0 |
+| Redstone Torch      |    68 |      68 |                                0 |
+| Dropper             |    50 |      50 |                                0 |
+| Oak Leaves          |    45 |      45 |                                0 |
+| Redstone Repeater   |    42 |      42 |                                0 |
+| Lava Bucket         |    40 |      40 |                                0 |
+| Dispenser           |    20 |      20 |                                0 |
+| Piston              |    20 |      20 |                                0 |
+| Soul Sand           |    20 |      20 |                                0 |
+| Note Block          |    12 |      12 |                                0 |
+| Observer            |    12 |      12 |                                0 |
+| Spruce Trapdoor     |    10 |      10 |                                0 |
+| Oak Sign            |     5 |       5 |                                0 |
+| Powder Snow Bucket  |     5 |       5 |                                0 |
+| Redstone Comparator |     4 |       4 |                                0 |
+| Iron Trapdoor       |     2 |       2 |                                0 |
+| Lever               |     1 |       1 |                                0 |
++---------------------+-------+---------+----------------------------------+
+| Item                | Total | Missing |                        Available |
++---------------------+-------+---------+----------------------------------+

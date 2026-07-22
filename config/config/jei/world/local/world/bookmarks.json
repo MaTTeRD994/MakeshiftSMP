@@ -1,0 +1,6 @@
+[
+  {"version":2},
+  {"ingredient":{"id":"create:potion","components":{"minecraft:potion_contents":{"potion":"minecraft:water"},"create:potion_fluid_bottle_type":"regular"}},"type":"fluid_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"minecraft:gravel"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"create:zinc_nugget"},"type":"item_stack","bookmarkType":"INGREDIENT"}
+]

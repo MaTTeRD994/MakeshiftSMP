@@ -1,0 +1,13 @@
+name = "BetterTrims"
+filename = "bettertrims-4.0.4+1.21.1-neoforge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/98ytUvlc/versions/GnrrdYj6/bettertrims-4.0.4%2B1.21.1-neoforge.jar"
+hash-format = "sha512"
+hash = "05d0c088133c5b882f61c3018c86a53c11324cba70421c29cde91dcddf31f9ca577600dfba1edaf9509a2a15e48bc36f457191bff77553dfae0a7138bfdf46a7"
+
+[update]
+[update.modrinth]
+mod-id = "98ytUvlc"
+version = "GnrrdYj6"

@@ -1,0 +1,13 @@
+name = "Advanced RGB Lamps"
+filename = "advancedrgblamps-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/xIHyt1NY/versions/gtAKaXs1/advancedrgblamps-1.0.0.jar"
+hash-format = "sha512"
+hash = "4728c6067b798b18c1c3c78129979489d31a8a504d910dd367ae546c7749ebdd75458ff660d2ef8f5bae8b378837397fcc42a14a95194c7f8f687659d41cb1af"
+
+[update]
+[update.modrinth]
+mod-id = "xIHyt1NY"
+version = "gtAKaXs1"

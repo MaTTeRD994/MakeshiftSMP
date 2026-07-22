@@ -1,0 +1,13 @@
+name = "NeonDeco"
+filename = "neondeco-1.2.0.a-neoforge-1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/5AZQPIVY/versions/8c54FNoB/neondeco-1.2.0.a-neoforge-1.21.1.jar"
+hash-format = "sha512"
+hash = "fcbd5030c7d739b89b10cd6618809ec4def942dfbdcc4b94a74f13f6ea56b61c4319876edde78f8b27007519e0072d4a8435e447d2f0ee4d1e95318078ce8ddf"
+
+[update]
+[update.modrinth]
+mod-id = "5AZQPIVY"
+version = "8c54FNoB"

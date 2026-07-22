@@ -1,0 +1,15 @@
+[
+  {"version":1},
+  {"ingredient":{"id":"mcwholidays:magenta_ornament"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"mcwroofs:light_blue_concrete_roof"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"mcwroofs:light_blue_concrete_upper_steep_roof"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"mcwroofs:red_nether_bricks_lower_roof"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"mcwroofs:red_nether_bricks_roof"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"mcwroofs:stone_bricks_top_roof"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"mcwwindows:birch_window"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"mcwwindows:jungle_window2"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"mcwwindows:acacia_four_window"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"mcwwindows:mangrove_four_window"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"mcwwindows:mangrove_window2"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"mcwbridges:iron_bridge"},"type":"item_stack","bookmarkType":"INGREDIENT"}
+]

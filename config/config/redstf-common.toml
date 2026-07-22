@@ -1,0 +1,25 @@
+#Maximum Linked Function cache entries (memory + disk). LRU eviction when full. Higher = more memory.
+#Default: 65536
+# Default: 65536
+# Range: 256 ~ 1000000
+cacheSize = 65536
+#Ticks the output must be stable before caching (20 = 1 second). Prevents flickering.
+#Range: 4–6000
+# Default: 20
+# Range: 4 ~ 6000
+stableTicks = 20
+#Allow Remembering cache mode. When false, only Standard mode is available.
+#Remembering stores input history and can use more memory.
+allowRemembering = true
+#Force Binary signal strength only (0/15). When true, Full (0–15) is disabled.
+#Binary uses fewer cache entries since inputs have fewer distinct values.
+binaryOnly = false
+#Allow Glow mode in Network Visualizer. When false, Glow and All+Glow are disabled.
+#Glow mode renders outlines through blocks and can be more performance-intensive.
+allowGlowMode = true
+#Debug logging for Linked Function logic (visible in latest.log)
+debug = false
+#Test: Force Call-Link output (-1=off, 0–15=value). For debugging Mixin/network.
+# Default: -1
+# Range: -1 ~ 15
+forceOutput = -1

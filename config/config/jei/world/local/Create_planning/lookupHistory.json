@@ -1,0 +1,9 @@
+[
+  {"version":1},
+  {"ingredient":{"id":"farmersdelight:organic_compost"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"farmersdelight:rich_soil"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"create:cogwheel"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"minecraft:tuff_stairs"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"railways:buffer","components":{"minecraft:custom_data":{"BlockEntityTag":{"TargetDirection":0,"TargetTrack":[0,-1,0]}}}},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"create:super_glue"},"type":"item_stack","bookmarkType":"INGREDIENT"}
+]

@@ -1,0 +1,21 @@
+[
+  {"version":2},
+  {"ingredient":{"id":"create:mechanical_drill"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"create:mechanical_saw"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"create:deployer"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"create:portable_storage_interface"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"create:andesite_alloy"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"create:shaft"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"minecraft:andesite"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"create:schematic_table"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"create:andesite_scaffolding"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"minecraft:tuff"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"recipe":"create:mixing/andesite_alloy","recipeType":"create:mixing","bookmarkType":"RECIPE"},
+  {"recipe":"create:mixing/brass_ingot","recipeType":"create:mixing","bookmarkType":"RECIPE"},
+  {"ingredient":{"id":"minecraft:iron_ingot"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"minecraft:iron_block"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"minecraft:diorite"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"createaddition:rolling_mill"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"minecraft:spruce_trapdoor"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"minecraft:oak_fence"},"type":"item_stack","bookmarkType":"INGREDIENT"}
+]

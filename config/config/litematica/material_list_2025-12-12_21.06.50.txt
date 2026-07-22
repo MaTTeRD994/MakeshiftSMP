@@ -1,0 +1,28 @@
++---------------------------+-------+---------+-----------+
+| Material List for placement 'terraforming'              |
++---------------------------+-------+---------+-----------+
+| Item                      | Total | Missing | Available |
++---------------------------+-------+---------+-----------+
+| Dirt                      | 18458 |    7150 |         0 |
+| Grass Block               | 10798 |    2370 |         0 |
+| Andesite                  |  2376 |    1444 |         0 |
+| Cobbled Deepslate         |  1613 |     214 |         0 |
+| Short Grass               |   894 |     707 |         0 |
+| Coarse Dirt               |   878 |     677 |         0 |
+| Gravel                    |   811 |      39 |         0 |
+| Spruce Leaves             |   702 |     702 |         0 |
+| Cut Andesite              |   695 |     664 |         0 |
+| Polished Cut Andesite     |   594 |     577 |         0 |
+| Polished Andesite         |   483 |     464 |         0 |
+| Deepslate                 |   448 |     443 |         0 |
+| Gravel Bricks             |   392 |     392 |         0 |
+| Oak Leaves                |   354 |      62 |         0 |
+| Sanded Deepslate          |   340 |     221 |         0 |
+| Spruce Wood               |   204 |     204 |         0 |
+| Polished Deepslate        |   191 |     191 |         0 |
+| Tall Grass                |   152 |     152 |         0 |
+| Birch Leaves              |    53 |       0 |         0 |
+| Granite Strewn Rocky Path |    44 |      44 |         0 |
++---------------------------+-------+---------+-----------+
+| Item                      | Total | Missing | Available |
++---------------------------+-------+---------+-----------+

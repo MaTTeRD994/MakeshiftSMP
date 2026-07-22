@@ -1,0 +1,13 @@
+name = "Create: Better Stock Ticker"
+filename = "betterstockticker-1.1.295.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/qZ2m9n6H/versions/byOnwz64/betterstockticker-1.1.295.jar"
+hash-format = "sha512"
+hash = "0eeadf9712cf1abc6f3ba9c9a71d9c88c13f72d8e77b6e132cb9492e1081a230486b8ff61b97df407754e5b227036516da3b7a2905449079335c88dacc526983"
+
+[update]
+[update.modrinth]
+mod-id = "qZ2m9n6H"
+version = "byOnwz64"

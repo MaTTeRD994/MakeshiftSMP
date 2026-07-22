@@ -1,0 +1,13 @@
+name = "Create: Garnished Additions"
+filename = "garnished_additions-0.8.8+1.21.1-neoforged.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/sNUaI7Ge/versions/TadGJkFc/garnished_additions-0.8.8%2B1.21.1-neoforged.jar"
+hash-format = "sha512"
+hash = "1bb8f2af4ced4f06126ea72de5d29d5b1143bff4ba744d25c9a377aa90727a4c78b284e1ea94df29a20787a099928ec4b56cdf2e021e46557e6132f8018ec3ec"
+
+[update]
+[update.modrinth]
+mod-id = "sNUaI7Ge"
+version = "TadGJkFc"

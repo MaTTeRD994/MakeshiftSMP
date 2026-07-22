@@ -1,0 +1,44 @@
+{
+  "selections": {
+    "mode": "SIMPLE"
+  },
+  "placements": {},
+  "schematic_projects_manager": {},
+  "operation_mode": "PASTE_SCHEMATIC",
+  "render_range": {
+    "mode": "ALL_BELOW",
+    "axis": "Y",
+    "layer_single": 108,
+    "layer_above": 0,
+    "layer_below": 0,
+    "layer_range_min": 0,
+    "layer_range_max": 0,
+    "hotkey_range_min": false,
+    "hotkey_range_max": false
+  },
+  "area_simple": {
+    "name": "test01",
+    "current": "01",
+    "boxes": [
+      {
+        "pos1": [
+          -114,
+          -46,
+          -3
+        ],
+        "pos2": [
+          -83,
+          -27,
+          -39
+        ],
+        "name": "01"
+      }
+    ]
+  },
+  "tool_mode_data": {
+    "delete": {
+      "use_placement": false
+    }
+  },
+  "block_entities": {}
+}

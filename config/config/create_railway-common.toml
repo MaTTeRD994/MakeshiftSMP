@@ -1,0 +1,70 @@
+#Create: Railway Evolution — Train AI Configuration (Vanilla Edition)
+[obstacle_detection]
+	#How far ahead (in blocks) a train scans for obstacles. Increase for faster trains. Default: 50.
+	# Default: 50.0
+	# Range: 10.0 ~ 256.0
+	detection_range = 50.0
+
+[virtual_block_system]
+	#Time-to-live for a track segment reservation (in ticks). Safety net.
+	# Default: 200
+	# Range: 40 ~ 1200
+	reservation_ttl_ticks = 200
+	#Max number of segments to reserve ahead of the train.
+	# Default: 5
+	# Range: 1 ~ 20
+	max_lookahead_segments = 5
+	#How often (in ticks) to clean up expired VBS reservations.
+	# Default: 100
+	# Range: 20 ~ 600
+	cleanup_interval_ticks = 100
+
+[right_of_way]
+	#Minimum safe stopping distance (blocks) — train will never get closer than this to any obstacle. Default: 7.
+	# Default: 7.0
+	# Range: 2.0 ~ 20.0
+	minimum_stop_distance = 7.0
+	#Max ticks a train will yield before reverse-escape maneuver kicks in.
+	# Default: 300
+	# Range: 100 ~ 6000
+	max_yield_ticks = 300
+
+[reverse_maneuver]
+	#Enable reverse-escape maneuver when a train is stuck yielding too long.
+	reverse_maneuver_enabled = true
+	#How far (blocks) the train backs up before handing control back to navigation.
+	# Default: 8.0
+	# Range: 3.0 ~ 40.0
+	reverse_backup_distance = 8.0
+	#Speed (blocks/tick) used during the reverse-escape maneuver.
+	# Default: 0.4
+	# Range: 0.1 ~ 1.0
+	reverse_speed = 0.4
+
+[manager]
+	#How often (ticks) to scan Create for new/removed trains.
+	# Default: 40
+	# Range: 10 ~ 200
+	train_scan_interval_ticks = 40
+
+[player_safety]
+	#Player safety system — trains detect and avoid players on tracks.
+	#Enable player detection and safety braking system.
+	enabled = true
+	#How far ahead (blocks) trains scan for players on tracks.
+	# Default: 30.0
+	# Range: 10.0 ~ 100.0
+	detection_range = 30.0
+	#Distance (blocks) at which the train must fully stop if player doesn't move.
+	# Default: 5.0
+	# Range: 2.0 ~ 15.0
+	emergency_stop_distance = 5.0
+	#How far (blocks) the player must be from the rail center to be considered safe.
+	# Default: 2.0
+	# Range: 1.0 ~ 5.0
+	safe_distance_from_rail = 2.0
+	#How long (ticks) the whistle warns before emergency braking begins.
+	#60 ticks = 3 seconds.
+	# Default: 60
+	# Range: 20 ~ 200
+	whistle_warning_ticks = 60

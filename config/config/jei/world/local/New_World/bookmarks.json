@@ -1,0 +1,22 @@
+[
+  {"version":2},
+  {"ingredient":{"id":"garnished:salt_compound"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"garnished:garnish_compound"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"create:honey"},"type":"fluid_stack","bookmarkType":"INGREDIENT"},
+  {"recipe":"garnished_additions:mixing/honey_block","recipeType":"create:mixing","bookmarkType":"RECIPE"},
+  {"ingredient":{"id":"garnished:solidified_garnish"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"recipe":"garnished_additions:compacting/solidified_garnish","recipeType":"create:packing","bookmarkType":"RECIPE"},
+  {"recipe":"garnished:crushing/powdered_garnish","recipeType":"create:crushing","bookmarkType":"RECIPE"},
+  {"recipe":"garnished:mixing/garnish","recipeType":"create:mixing","bookmarkType":"RECIPE"},
+  {"ingredient":{"id":"minecraft:water"},"type":"fluid_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"minecraft:beetroot_seeds"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"minecraft:sugar"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"create:limestone"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"garnished:crushed_salt"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"minecraft:wheat"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"garnished:garnish"},"type":"fluid_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"minecraft:flint"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"create:mechanical_press"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"garnished:garnish_powder"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"minecraft:powder_snow_bucket"},"type":"item_stack","bookmarkType":"INGREDIENT"}
+]

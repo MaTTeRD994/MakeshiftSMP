@@ -1,0 +1,21 @@
+[
+  {"version":1},
+  {"ingredient":{"id":"createdeco:industrial_iron_sheet_metal"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"create_blaze_burner_fuels:wood_pellets"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"create_blaze_burner_fuels:wood_dust"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"minecraft:stick"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"neoncraft:neon_tube"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"neoncraft:a_white"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"railways:handcar"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"create:industrial_iron_block"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"dndecor:industrial_plating_block"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"createdeco:andesite_window"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"supplementaries:ash_brick"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"supplementaries:ash_bricks"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"create:cut_veridium"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"createdeco:industrial_iron_ingot"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"createdeco:industrial_iron_sheet"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"dndecor:dark_metal_block"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"createdeco:dean_bricks"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"createdeco:short_red_bricks"},"type":"item_stack","bookmarkType":"INGREDIENT"}
+]

@@ -1,0 +1,11 @@
+[
+  {"version":2},
+  {"ingredient":{"id":"garnished:yellow_mastic_resin_bucket"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"garnished:red_mastic_resin_bucket"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"garnished:blue_mastic_resin_bucket"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"garnished:green_mastic_resin_bucket"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"garnished:mastic_resin"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"garnished:mastic_block"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"recipe":"create:crafting/appliances/crafting_blueprint","recipeType":"minecraft:crafting","bookmarkType":"RECIPE"},
+  {"ingredient":{"id":"supplementaries:cog_block"},"type":"item_stack","bookmarkType":"INGREDIENT"}
+]

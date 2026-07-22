@@ -1,0 +1,7 @@
+#Network Visualizer: maximum block distance to render links (blocks).
+#Higher = more performance cost. Default: 24
+# Default: 24
+# Range: 8 ~ 64
+visualizerRange = 24
+#When true, other players see the Network Visualizer glasses on your head.
+visualizerVisible = false
