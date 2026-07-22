@@ -2193,6 +2193,10 @@ hash = "8e671fbd3a5460a61073cced391ec08efc6b67d765e49015eea45a1f1db159a0"
 metafile = true
 
 [[files]]
+file = "mods/cosmeticarmorreworked-1.21.1-v1-neoforge.jar"
+hash = "6328049755735159c55f5918ac301cff53a8d8790c3fe63e32e7d8a0e37f123f"
+
+[[files]]
 file = "mods/create-additional-logistics.pw.toml"
 hash = "ba904d5c6a361b648fa7df9ecb8133ef6d1cdc596edb0be128b5562ebbdc14ae"
 metafile = true
@@ -2406,6 +2410,10 @@ metafile = true
 file = "mods/cubes-without-borders.pw.toml"
 hash = "8e5f6550359e71ecbea95705ec61fb03313550e6f481cabf48043929909aabae"
 metafile = true
+
+[[files]]
+file = "mods/cupboard-1.21-2.9.jar"
+hash = "0d7093deae83d223674e3bf0fc37943658f3f028e655df6f9e25209c32f41668"
 
 [[files]]
 file = "mods/decorative-lamps.pw.toml"
