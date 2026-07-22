@@ -1997,39 +1997,39 @@ file = "config/config/yacl.json5"
 hash = "121b93764159be6fb7dab523b29a844e2bb78400ce8c48f52135a097e9b0006e"
 
 [[files]]
-file = "kubejs/kubejs/README.txt"
+file = "kubejs/README.txt"
 hash = "989f3737ae4621b8ff6730bce4cbeeee756921e7e510e0c281c8a350501d98af"
 
 [[files]]
-file = "kubejs/kubejs/assets/kubejs/textures/block/example_block.png"
+file = "kubejs/assets/kubejs/textures/block/example_block.png"
 hash = "783d78bd1ee61d3b32273670dff9d82c34cd74c5ae899a10f104f473828d5bbc"
 
 [[files]]
-file = "kubejs/kubejs/assets/kubejs/textures/item/example_item.png"
+file = "kubejs/assets/kubejs/textures/item/example_item.png"
 hash = "45a5f56eba6066ad05c70988a32b72c50cfeb6e35857739bd582007011ea002b"
 
 [[files]]
-file = "kubejs/kubejs/client_scripts/main.js"
+file = "kubejs/client_scripts/main.js"
 hash = "bf4cc1177e5535e9e9aae07c90a1e538ff4e6738362cf8c761b6a45c8565d320"
 
 [[files]]
-file = "kubejs/kubejs/config/client.json"
+file = "kubejs/config/client.json"
 hash = "87a09ee1609bc799223c58cb6225c769bb4d0a1a0bb6d9186ff5f8875c7e9a37"
 
 [[files]]
-file = "kubejs/kubejs/config/common.json"
+file = "kubejs/config/common.json"
 hash = "e00a67922942660d77c213379b5128a46c5abc894178b0be04006d325ff5f6b3"
 
 [[files]]
-file = "kubejs/kubejs/config/web_server.json"
+file = "kubejs/config/web_server.json"
 hash = "bd1691dcbe0db34870eb38747ff91669bc1ea8b36e234b70957ce412c70cbb8d"
 
 [[files]]
-file = "kubejs/kubejs/server_scripts/main.js"
+file = "kubejs/server_scripts/main.js"
 hash = "dae099ae3be7f033c0c190ee8c3b023b42f6b235d9d0591be5926e8435dbd67f"
 
 [[files]]
-file = "kubejs/kubejs/startup_scripts/main.js"
+file = "kubejs/startup_scripts/main.js"
 hash = "3467264336f6218cbbcc75cf6f2f17879576b51d1168190f963936b289f90b50"
 
 [[files]]
